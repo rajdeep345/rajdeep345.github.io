@@ -13,8 +13,8 @@ Welcome! I am a fourth-year Ph.D. Candidate at the Dept. of Computer Science and
 I obtained my Masters from IIIT Delhi under the supervision of [Prof. Sambuddho Chakravarty](https://www.iiitd.ac.in/sambuddho). I did my Undergrad at Jadavpur University, where I worked with [Prof. Samiran Chattopadhyay](http://www.jaduniv.edu.in/profile.php?uid=615). Additionally, I have four years of professional experience with [PwC India](https://www.pwc.in/) specializing in Data Modeling and Business Intelligence.
 
 Research Interests
----
-Aspect-based Sentiment Analysis, Summarization, AI for Tourism
+======
+Aspect-based Sentiment Analysis, Emotion Analysis, Text Summarization, AI for Tourism
 
 <!-- Welcome! I am a Postdoctoral Research Fellow in the
 [Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/) 
