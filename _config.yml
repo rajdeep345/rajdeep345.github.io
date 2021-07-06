@@ -11,9 +11,9 @@ title                    : "Rajdeep Mukherjee"
 title_separator          : "-"
 name                     : &name "Rajdeep Mukherjee"
 description              : &description "Ph.D. Candidate, CNeRG, Dept. of CSE, IIT Kharagpur, India"
-url                      : https://jayrobwilliams.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://rajdeep345.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jayrobwilliams/jayrobwilliams.github.io"
+repository               : "rajdeep345/rajdeep345.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : jayrobw
+  username               : rajdeep345
 facebook:
   username               :
   app_id                 :
