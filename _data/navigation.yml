@@ -2,7 +2,19 @@
 main:
   - title: "Publications"
     url: /publications/
+
+  - title: "Experience"
+    url: /experience/
     
+  - title: "Talks"
+    url: /talks/
+
+  - title: "Awards"
+    url: /awards/
+
+  - title: "Activities"
+    url: /activities/
+
   - title: "Research"
     url: /research/
 
@@ -15,5 +27,5 @@ main:
   - title: "Posts"
     url: /posts/
     
-  - title: "CV"
+  - title: "Curriculum Vitae"
     url: /cv/
