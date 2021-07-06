@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rob Williams"
+title                    : "Rajdeep Mukherjee"
 title_separator          : "-"
-name                     : &name "Rob Williams"
-description              : &description "Postdoc in Political Science"
+name                     : &name "Rajdeep Mukherjee"
+description              : &description "Ph.D. Candidate, CNeRG, Dept. of CSE, IIT Kharagpur, India"
 url                      : https://jayrobwilliams.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jayrobwilliams/jayrobwilliams.github.io"
@@ -82,16 +82,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rob Williams"
+  name             : "Rajdeep Mukherjee"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Research Fellow"
-  location         : "St. Louis, MO"
+  bio              : "Ph.D. Candidate, CNeRG, IIT Kharagpur"
+  location         : "Kolkata, WB, India"
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  orcid            : "https://orcid.org/0000-0002-2267-1695"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Ac-0jgMAAAAJ"
+  email            : "rajdeep1989.iitkgp@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Rajdeep-Mukherjee-9"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,8 +99,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
-  gitlab           : "jayrobwilliams"
+  github           : "rajdeep345"
+  gitlab           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -112,7 +112,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jayrobw"
+  twitter          : "rajdeep345"
   vine             :
   weibo            :
   xing             :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Kolkata # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
