@@ -16,7 +16,7 @@ author_profile: true
 		<i> Senior Project Officer </i> (under <a href="http://www.facweb.iitkgp.ac.in/~niloy/">Prof. Niloy Ganguly</a>)
 	</li>
 	<li> Dept. of Computer Science and Engineering, IIIT Delhi (Jun 2016 - Jul 2017) <br>
-		<i> Research Scholar, Master's Thesis </i> (under <a href="https://sites.google.com/site/sambuddhochakravarty/home?authuser=0">Prof. Sambuddho Chakravarty</a>)
+		<i> Research Scholar, <a href="https://repository.iiitd.edu.in/jspui/handle/123456789/535">Master's Thesis</a> </i> (under <a href="https://sites.google.com/site/sambuddhochakravarty/home?authuser=0">Prof. Sambuddho Chakravarty</a>)
 	</li>
 </ul>
 
@@ -32,7 +32,7 @@ Teaching Experience (Teaching Assistant)
 ======
 
 <ul>
-	<li> noc21-cs102: Natural Language Processing <br>
+	<li> <a href="https://nptel.ac.in/noc/courses/noc21/SEM2/noc21-cs102/">noc21-cs102: Natural Language Processing</a> <br>
 		<i> Autumn'21, NPTEL </i> (Instructor: <a href="http://cse.iitkgp.ac.in/~pawang/">Prof. Pawan Goyal</a>)
 	</li>
 	<li> <a href="https://cse.iitkgp.ac.in/~pawang/courses/NLP21.html">CS60075: Natural Language Processing</a> <br>
@@ -47,7 +47,7 @@ Teaching Experience (Teaching Assistant)
 	<li> <a href="https://cse.iitkgp.ac.in/~pawang/courses/ALGO19.html">CS29003: Algorithms-1 Lab</a> <br>
 		<i> Autumn'19, IIT Kharagpur </i> (Instructors: <a href="http://cse.iitkgp.ac.in/~pawang/">Prof. Pawan Goyal</a> and <a href="https://cse.iitkgp.ac.in/~animeshm/">Prof. Animesh Mukherjee</a>)
 	</li>
-	<li> noc19-cs56: Natural Language Processing <br>
+	<li> <a href="https://nptel.ac.in/noc/courses/noc19/SEM2/noc19-cs56/">noc19-cs56: Natural Language Processing</a> <br>
 		<i> Autumn'19, NPTEL </i> (Instructor: <a href="http://cse.iitkgp.ac.in/~pawang/">Prof. Pawan Goyal</a>)
 	</li>
 	<li> CS19001: Programming and Data Structures Lab <br>
