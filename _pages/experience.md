@@ -59,7 +59,7 @@ Teaching Experience (Teaching Assistant)
 	<li> <a href="https://sites.google.com/site/sambuddhochakravarty/teaching/security-engineering-cse352552---winter-2017?authuser=0">CSE352/CSE552: Security Engineering</a> <br>
 		<i> Spring'17, IIIT Delhi </i> (Instructor: <a href="https://sites.google.com/site/sambuddhochakravarty/home?authuser=0">Prof. Sambuddho Chakravarty</a>)
 	</li>
-	
+</ul>	
 
 Professional Experience
 ======
