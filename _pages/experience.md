@@ -54,7 +54,7 @@ Teaching Experience (Teaching Assistant)
 		<i> Spring'19, IIT Kharagpur </i> (Instructor: <a href="https://iith.ac.in/~rogers/">Prof. Rogers Mathew</a>)
 	</li>
 	<li> CS19001: Programming and Data Structures Lab <br>
-		<i> Autumn'18, IIT Kharagpur </i> (Instructors: <a href="https://iith.ac.in/~rogers/">Prof. Rogers Mathew</a> and <a href="http://cse.iitkgp.ac.in/~spp/">Prof. Sudebkumar Prasant Pal</a>)
+		<i> Autumn'18, IIT Kharagpur </i> (Instructors: <a href="https://iith.ac.in/~rogers/">Prof. Rogers Mathew</a> and <a href="http://cse.iitkgp.ac.in/~spp/">Prof. Sudebkumar Pal</a>)
 	</li>
 	<li> <a href="https://sites.google.com/site/sambuddhochakravarty/teaching/security-engineering-cse352552---winter-2017?authuser=0">CSE352/CSE552: Security Engineering</a> <br>
 		<i> Spring'17, IIIT Delhi </i> (Instructor: <a href="https://sites.google.com/site/sambuddhochakravarty/home?authuser=0">Prof. Sambuddho Chakravarty</a>)
