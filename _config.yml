@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rajdeep Mukherjee"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Rajdeep Mukherjee"
 description              : &description "Ph.D. Candidate, CNeRG, Dept. of CSE, IIT Kharagpur, India"
@@ -66,8 +66,8 @@ og_image                 : profilePic.png # Open Graph/Twitter default site imag
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Person # Person or Organization (defaults to Person)
+  name                   : Rajdeep Mukherjee # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 
