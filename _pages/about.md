@@ -20,7 +20,7 @@ News
 ======
 <ul class="smallFont">
   <li> [Jul 2021] Going to present our work at <a href="https://sigir.org/sigir2021/schedule/">SIGIR 2021</a>! [<a href="/files/pdf/research/VADEC_SIGIR2021_Poster.pdf">Poster</a>] [<a href="https://docs.google.com/presentation/d/e/2PACX-1vQpnzCkBpsfsG5ah-KKegGFc90IwTHZiLkzB76kUXlrmrz7m-6JnWl3-uTfoFs-LsNVbmPE2JqAXdHT/pub?start=false&loop=false&delayms=3000">Slides</a>] [<a href="https://files.atypon.com/acm/a419079f7fed8d5a4e1e8cf5553b7139">Pre-recorded Video</a>] </li>
-  <li> [Jun 2021] Attended <a href="https://leibniz-ai-lab.de/?etn=upcoming-events/">Harnessing Big Data for Precision Medicine and Healthcare</a>, organized by Leibniz AI Lab </li>
+  <li> [Jun 2021] Attended <a href="https://leibniz-ai-lab.de/?etn=upcoming-events/">Harnessing Big Data for Precision Medicine and Healthcare</a>, Leibniz AI Lab </li>
   <li> [Jun 2021] Attended <a href="https://sites.google.com/view/sail-2021/">Symposium on Artificial Intelligence and Law (SAIL)</a> </li>
   <li> [Mar 2021] Presented our work at <a href="https://www.ecir2021.eu/proceedings/">ECIR 2021</a>! [<a href="https://docs.google.com/presentation/d/e/2PACX-1vSA0cnc7YFzkoyj2sQRn7eg6EJjO9IY33Rh1csHfJr1XuEKxRqx3IBHigfTb5bLa8uFeXlxQdK7R6hM/pub?start=false&loop=false&delayms=3000">Slides</a>] [<a href="https://drive.google.com/file/d/1_Nb4dZpG3c8CjNq1l6DtHk75n-5xQOi-/view?usp=sharing">Pre-recorded Video</a>] </li>
   <li> [Mar 2021] Reviewing for ACM Transactions on the Web (<a href="https://dl.acm.org/journal/tweb/">TWEB</a>) 2020 </li>
@@ -34,6 +34,8 @@ News
   <li> [May 2020] Conference Practice Talk: Read what you need: Controllable Aspect-based Opinion Summarization of Tourist Reviews (SIGIR 2020) [<a href="https://docs.google.com/presentation/d/e/2PACX-1vT-oaf6d6ISese7sXIYtpQZYxILEjnsP4L2ZTqHGmeg235De_dzfaCJNDOMkGzzFuxFlS_WDB4bBJzX/pub?start=false&loop=false&delayms=3000">Slides</a>] </li>
   <li> [Apr 2020] <a href="/files/pdf/research/c02.pdf">Paper</a> on Controllable Opinion Summarization accepted at SIGIR 2020! </li>
   <li> [Sep 2019] Invited to attend Amazon Research Days 2019! </li>
-  <li> [May 2019] CNeRG Reading Group Talk: Linguistically-Informed Self-Attention for Semantic Role Labeling (Strubel et. al., EMNLP 2020) [<a href="https://docs.google.com/presentation/d/e/2PACX-1vR308wHtYIzPVuO1pRcwbqSTxbHmacEXwIwMRny48PE4aVWbrK9RGNjV-FXFQ3A4A/pub?start=false&loop=false&delayms=3000">Slides</a>]
+  <li> [May 2019] CNeRG Reading Group Talk: Linguistically-Informed Self-Attention for Semantic Role Labeling (Strubel et. al., EMNLP 2020) [<a href="https://docs.google.com/presentation/d/e/2PACX-1vR308wHtYIzPVuO1pRcwbqSTxbHmacEXwIwMRny48PE4aVWbrK9RGNjV-FXFQ3A4A/pub?start=false&loop=false&delayms=3000">Slides</a>] </li>
+  <li> [Dec 2018] Presented my <i> Internship </i> work on <i> Bird Audio Detection </i> using deep neural networks at CNeRG Retreat 2018 [<a href="https://docs.google.com/presentation/d/e/2PACX-1vRIY1ctokV6132RtxxDSe9SaoT7LjhiWQFy1Tl_MbPbZMLTe9lph-psntVlESewfK_4yA3XUaXcv-QI/pub?start=false&loop=false&delayms=3000">Slides</a>] </li>
   <li> [Oct 2018] CNeRG Reading Group Talk: Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling (Diego Marcheggiani et. al., EMNLP 2017) [<a href="https://diegma.github.io/slides/EMNLP17_slides.pdf">Slides</a>] </li>
   <li> [May 2018] Started Summer Internship at <a href="https://www.research.ibm.com/labs/india/">IBM Research India Labs</a> </li>
+</ul>
