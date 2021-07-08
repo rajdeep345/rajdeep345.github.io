@@ -19,34 +19,16 @@ Aspect-based Sentiment Analysis, Emotion Analysis, Text Summarization, AI for To
 News
 ======
 <ul>
-  <li> [Apr 2021] <a href="/files/pdf/research/c04.pdf">Paper</a> on the utilization of better representational power of Dimensional Models for Categorical Analysis of Emotions from tweets accepted at <a href="https://sigir.org/sigir2021/schedule/">SIGIR 2021</a>! </li>
+  <li> [Apr 2021] <a href="/files/pdf/research/c04.pdf">Paper</a> on utilizing the better representational power of <i> Dimensional Models </i> for <i> Categorical Analysis of Emotions </i> from tweets accepted at <a href="https://sigir.org/sigir2021/schedule/">SIGIR 2021</a>! </li>
   <li> [Jan 2021] CNeRG Reading Group Talk: DualTKB: A Dual Learning Bridge between Text and Knowledge Base (Dognin et. al., EMNLP 2020) [<a href="https://docs.google.com/presentation/d/e/2PACX-1vTtOUPtoTv1hjIskPlHqz3h3QCmoZ47sCGFkkaoyvsxo4bWli9oRVWOGlKC3tYdlP3cxih8Q4daS9Yg/pub?start=false&loop=false&delayms=3000">Slides</a>] </li>
+  <li> [Dec 2020] Ph.D. Registration Seminar [<a href="https://docs.google.com/presentation/d/e/2PACX-1vTPWw3MBpjn-ZwybaC5KC2s7OZi5fwoIPMSf78yNuUlW2kR9Bopp_NDysfVHfdrtE7v_m1VKue47j2o/pub?start=false&loop=false&delayms=3000">Slides</a>] </li>
+  <li> [Dec 2020] Invited to attend Amazon Research Days 2020! </li>
+  <li> [Dec 2020] Attended <a href="https://labs.iitgn.ac.in/datascience/indoml/">IndoML 2020</a> </li>
   <li> [Dec 2020] <a href="/files/pdf/research/c03.pdf">Paper</a> on assessing the <i> Production Readiness </i> of State-of-the-Art Aspect-based Sentiment Analysis models accepted at <a href="https://www.ecir2021.eu/proceedings/">ECIR 2021</a>! </li>
+  <li> [July 2020] Presented our work on Controllable Opinion Summarization at SIGIR 2020! [<a href="https://dl.acm.org/doi/abs/10.1145/3397271.3401269">Video</a>] My <i> first </i> conference presentation! </li>
   <li> [May 2020] Conference Practice Talk: Read what you need: Controllable Aspect-based Opinion Summarization of Tourist Reviews (SIGIR 2020) [<a href="https://docs.google.com/presentation/d/e/2PACX-1vT-oaf6d6ISese7sXIYtpQZYxILEjnsP4L2ZTqHGmeg235De_dzfaCJNDOMkGzzFuxFlS_WDB4bBJzX/pub?start=false&loop=false&delayms=3000">Slides</a>] </li>
   <li> [Apr 2020] <a href="/files/pdf/research/c02.pdf">Paper</a> on Controllable Opinion Summarization accepted at SIGIR 2020! </li>
+  <li> [Sep 2019] Invited to attend Amazon Research Days 2019! </li>
   <li> [May 2019] CNeRG Reading Group Talk: Linguistically-Informed Self-Attention for Semantic Role Labeling (Strubel et. al., EMNLP 2020) [<a href="https://docs.google.com/presentation/d/e/2PACX-1vR308wHtYIzPVuO1pRcwbqSTxbHmacEXwIwMRny48PE4aVWbrK9RGNjV-FXFQ3A4A/pub?start=false&loop=false&delayms=3000">Slides</a>]
-  <li> [Oct 2018] CNeRG Reading Group Talk: Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling (Diego Marcheggiani and Ivan Titov, EMNLP 2017) [<a href="https://diegma.github.io/slides/EMNLP17_slides.pdf">Slides</a>] </li>
-</ul>
+  <li> [Oct 2018] CNeRG Reading Group Talk: Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling (Diego Marcheggiani & Ivan Titov, EMNLP 2017) [<a href="https://diegma.github.io/slides/EMNLP17_slides.pdf">Slides</a>] </li>
 
-
-
-<!-- Welcome! I am a Postdoctoral Research Fellow in the
-[Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/) 
-and [Department of Political Science](https://polisci.wustl.edu/) at
-[Washington University in St. Louis](https://wustl.edu/). I am also an
-affiliated researcher with the
-[Data-driven Analysis of Peace Project](https://dapp-lab.org) lab. I specialize
-in International Relations and Political Methodology. I earned my Ph.D in
-Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu/) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
-
-My work has been [published](publications) in
-*International Studies Quarterly*, *Conflict Management and Peace Science*, and
-*Political Science Research and Methods*, among other outlets.
-My [research](research) explores the causes and consequences of political
-violence using a broad variety of methods such as latent variable models,
-geospatial analysis, and big data. While I primarily focus on civil conflict, I
-also examine contentious political phenomena including terrorism and economic
-statecraft. I have [teaching](teaching) experience in both international
-relations and quantitative methodology. -->
