@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-{% twitter https://twitter.com/rajdeep345 maxwidth=500 limit=5 %}
+{% twitter https://twitter.com/rajdeep345 align=right maxwidth=500 limit=5 %}
+<!-- {% for tweet in page.tweets %}
+  {% twitter tweet align=right width=350 %}
+{% endfor %} -->
 
 Welcome! I am a fourth-year Ph.D. Candidate at the Dept. of Computer Science and Engineering, IIT Kharagpur advised by [Prof. Pawan Goyal](http://cse.iitkgp.ac.in/~pawang/) and [Prof. Sourangshu Bhattacharya](http://cse.iitkgp.ac.in/~sourangshu/). As part of the Complex Networks Research Group ([CNeRG](https://cnerg-iitkgp.github.io/)), I work on problems that lie at the intersection of Natural Language Processing, Information Retrieval, and Computational Social Science. In 2018, I interned at IBM Research, India with [Dipyaman Banerjee](https://scholar.google.co.in/citations?user=zFoDxz8AAAAJ&hl=en) and [Kuntal Dey](https://scholar.google.com/citations?user=IlC2GRUAAAAJ&hl=en).
 
