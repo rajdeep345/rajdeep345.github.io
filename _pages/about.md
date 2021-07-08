@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-{% twitter https://twitter.com/rajdeep345 align=right maxwidth=500 limit=5 %}
+{% twitter https://twitter.com/rajdeep345 maxwidth=500 limit=5 %}
 <!-- {% for tweet in page.tweets %}
   {% twitter tweet align=right width=350 %}
 {% endfor %} -->
