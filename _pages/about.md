@@ -16,6 +16,18 @@ Research Interests
 ======
 Aspect-based Sentiment Analysis, Emotion Analysis, Text Summarization, AI for Tourism
 
+News
+======
+<ul>
+  <li> [Jan 2021] CNeRG Reading Group Talk: DualTKB: A Dual Learning Bridge between Text and Knowledge Base (Dognin et. al., EMNLP 2020) [<a href="https://docs.google.com/presentation/d/e/2PACX-1vTtOUPtoTv1hjIskPlHqz3h3QCmoZ47sCGFkkaoyvsxo4bWli9oRVWOGlKC3tYdlP3cxih8Q4daS9Yg/pub?start=false&loop=false&delayms=3000">Slides</a>] </li>
+  <li> [May 2020] Conference Practice Talk: Read what you need: Controllable Aspect-based Opinion Summarization of Tourist Reviews (SIGIR 2020) [<a href="https://docs.google.com/presentation/d/e/2PACX-1vT-oaf6d6ISese7sXIYtpQZYxILEjnsP4L2ZTqHGmeg235De_dzfaCJNDOMkGzzFuxFlS_WDB4bBJzX/pub?start=false&loop=false&delayms=3000">Slides</a>] </li>
+  <li> [May 2019] CNeRG Reading Group Talk: Linguistically-Informed Self-Attention for Semantic Role Labeling (Strubel et. al., EMNLP 2020) [<a href="https://docs.google.com/presentation/d/e/2PACX-1vR308wHtYIzPVuO1pRcwbqSTxbHmacEXwIwMRny48PE4aVWbrK9RGNjV-FXFQ3A4A/pub?start=false&loop=false&delayms=3000">Slides</a>]
+  <li> [Oct 2018] CNeRG Reading Group Talk: Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling (Diego Marcheggiani and Ivan Titov, EMNLP 2017 Best Long Paper) [<a href="https://diegma.github.io/slides/EMNLP17_slides.pdf">Slides</a>] </li>  
+
+</ul>
+
+
+
 <!-- Welcome! I am a Postdoctoral Research Fellow in the
 [Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/) 
 and [Department of Political Science](https://polisci.wustl.edu/) at
