@@ -1,23 +1,99 @@
 ---
 layout: archive
-title: "Conference Presentations"
+title: #"Conference Presentations"
 permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-{% endif %}
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
 
-<button type="button" class="collapsible">Conference Presentations</button>
+.active, .collapsible:hover {
+  background-color: #555;
+}
 
-<div class="content">
-{% for post in site.talks reversed %}
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+</style>
+</head>
+
+<body>
+
+  {% if site.talkmap_link == true %}
+  <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+  {% endif %}
+
+  <button type="button" class="collapsible">Conference Presentations</button>
+  <div class="content">
+    {% for post in site.talks reversed %}
+      {% if post.type == "conf" %}
+        {% include archive-single-talk.html %}
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <button type="button" class="collapsible">Seminars</button>
+  <div class="content">
+    {% for post in site.talks reversed %}
+      {% if post.type == "seminar" %}
+        {% include archive-single-talk.html %}
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <button type="button" class="collapsible">Open Section 3</button>
+  <div class="content">
+    {% for post in site.talks reversed %}
+      {% if post.type == "rg" %}
+        {% include archive-single-talk.html %}
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <script>
+  var coll = document.getElementsByClassName("collapsible");
+  var i;
+
+  for (i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      var content = this.nextElementSibling;
+      if (content.style.display === "block") {
+        content.style.display = "none";
+      } else {
+        content.style.display = "block";
+      }
+    });
+  }
+  </script>
+
+</body>
+</html>
+
+
+<!-- {% for post in site.talks reversed %}
   {% if post.type == "conf" %}
     {% include archive-single-talk.html %}
   {% endif %}
 {% endfor %}
-</div>
 
 <br>
 
@@ -37,5 +113,5 @@ author_profile: true
   {% if post.type == "rg" %}
     {% include archive-single-talk.html %}
   {% endif %}
-{% endfor %}
+{% endfor %} -->
 
