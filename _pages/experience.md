@@ -5,9 +5,6 @@ permalink: /experience/
 author_profile: true
 ---
 
-<head>
-	<title> Experience </title>
-</head>
 <ul>
 	<li> Dept. of Computer Science and Engineering, IIT Kharagpur (Jan 2018 - Present) <br>
 		<i> Ph.D. Research Scholar </i> (under <a href="http://cse.iitkgp.ac.in/~pawang/">Prof. Pawan Goyal</a> and <a href="http://cse.iitkgp.ac.in/~sourangshu/">Prof. Sourangshu Bhattacharya</a>)
