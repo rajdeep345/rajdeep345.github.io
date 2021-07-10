@@ -24,5 +24,6 @@ author_profile: true
 {% for post in site.talks reversed %}
   {% if post.type == "rg" %}
     {% include archive-single-talk.html %}
+  {% endif %}
 {% endfor %}
 
