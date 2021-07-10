@@ -38,7 +38,7 @@ News
   <li> [Apr 2020] <a href="/files/pdf/research/c02.pdf">Paper</a> on Controllable Opinion Summarization accepted at SIGIR 2020! </li>
   <li> [Feb 2020] Reviewing for <a href="https://sigir.org/sigir2020/">SIGIR 2020</a> </li>
   <li> [Sep 2019] Invited to attend Amazon Research Days 2019! </li>
-  <li> [May 2019] CNeRG Reading Group Talk: Linguistically-Informed Self-Attention for Semantic Role Labeling (Strubel et. al., EMNLP 2020) [<a href="https://docs.google.com/presentation/d/e/2PACX-1vR308wHtYIzPVuO1pRcwbqSTxbHmacEXwIwMRny48PE4aVWbrK9RGNjV-FXFQ3A4A/pub?start=false&loop=false&delayms=3000">Slides</a>] </li>
+  <li> [May 2019] CNeRG Reading Group Talk: Linguistically-Informed Self-Attention for Semantic Role Labeling (Strubel et. al., EMNLP 2018) [<a href="https://docs.google.com/presentation/d/e/2PACX-1vR308wHtYIzPVuO1pRcwbqSTxbHmacEXwIwMRny48PE4aVWbrK9RGNjV-FXFQ3A4A/pub?start=false&loop=false&delayms=3000">Slides</a>] </li>
   <li> [Dec 2018] Presented my <i> IBM Summer Internship </i> work on <i> Bird Audio Detection using Deep Neural Networks </i> at CNeRG Retreat 2018 [<a href="https://docs.google.com/presentation/d/e/2PACX-1vRIY1ctokV6132RtxxDSe9SaoT7LjhiWQFy1Tl_MbPbZMLTe9lph-psntVlESewfK_4yA3XUaXcv-QI/pub?start=false&loop=false&delayms=3000">Slides</a>] </li>
   <li> [Oct 2018] CNeRG Reading Group Talk: Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling (Diego Marcheggiani and Ivan Titov, EMNLP 2017) [<a href="https://diegma.github.io/slides/EMNLP17_slides.pdf">Slides</a>] </li>
   <li> [May 2018] Started Summer Internship at <a href="https://www.research.ibm.com/labs/india/">IBM Research India Labs</a> </li>
