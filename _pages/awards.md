@@ -26,6 +26,8 @@ author_profile: true
 	</li>
 </ul>
 
+<br>
+
 Scholarships and Travel Grants
 ======
 

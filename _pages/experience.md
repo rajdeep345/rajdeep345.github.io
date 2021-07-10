@@ -20,6 +20,8 @@ author_profile: true
 	</li>
 </ul>
 
+<br>
+
 Professional Activities
 ======
 
@@ -27,6 +29,8 @@ Professional Activities
 	<li> Reviewer/Sub-Reviewer for Conference: SIGIR'21, SDM'21, CODS-COMAD'21, EMNLP'20, SIGIR'20, LREC'20, EMNLP'19, CODS-COMAD'19 </li>
 	<li> Reviewer/Sub-Reviewer for Journal: TWEB'20, TCSS'20 </li>
 </ul>
+
+<br>
 
 Teaching Experience (Teaching Assistant)
 ======
@@ -60,6 +64,8 @@ Teaching Experience (Teaching Assistant)
 		<i> Spring'17, IIIT Delhi </i> (Instructor: <a href="https://sites.google.com/site/sambuddhochakravarty/home?authuser=0">Prof. Sambuddho Chakravarty</a>)
 	</li>
 </ul>	
+
+<br>
 
 Professional Experience
 ======
