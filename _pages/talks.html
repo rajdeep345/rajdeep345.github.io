@@ -19,7 +19,8 @@ author_profile: true
   border: none;
   text-align: left;
   outline: none;
-  font-size: 15px;
+  font-size: 16px;
+  font-weight: bold;
 }
 
 .active, .collapsible:hover {
@@ -59,7 +60,7 @@ author_profile: true
     {% endfor %}
   </div>
 
-  <button type="button" class="collapsible">Open Section 3</button>
+  <button type="button" class="collapsible">Paper Discussions and Talks @<a href="https://cnerg-iitkgp.github.io/">CNeRG</a></button>
   <div class="content">
     {% for post in site.talks reversed %}
       {% if post.type == "rg" %}
