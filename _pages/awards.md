@@ -7,7 +7,7 @@ author_profile: true
 
 <ul>
 	<li> 7th rank worldwide (1st in India) in IEEE (<a href="http://dcase.community/challenge2018/task-bird-audio-detection-results">DCASE 2018</a>) <br>
-		<i> Participated in IEEE AASP Challenge on Detection and Classification of Acoustic Scenes and Events (DCASE) 2018 as part of my summer internship at IBM India Research Labs.
+		<i> Participated in IEEE AASP Challenge on Detection and Classification of Acoustic Scenes and Events (DCASE) 2018 as part of my summer internship at IBM India Research Labs. </i>
 	</li>
 	<li> PwC Experience Award (2013) <br>
 		<i> Awarded twice for demonstrating PwC Core values and behaviors. </i>
