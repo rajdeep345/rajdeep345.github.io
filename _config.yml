@@ -187,6 +187,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  rgTalks:
+    output: true
+    permalink: /:collection/:path/
+  confTalks:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -240,6 +246,22 @@ defaults:
   - scope:
       path: ""
       type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+  # _rgTalks
+  - scope:
+      path: ""
+      type: rgTalks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+  # _confTalks
+  - scope:
+      path: ""
+      type: confTalks
     values:
       layout: talk
       author_profile: true

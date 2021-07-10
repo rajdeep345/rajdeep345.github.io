@@ -13,9 +13,15 @@ author_profile: true
   {% include archive-single-talk.html %}
 {% endfor %}
 
-<h1> Paper Discussions and Talks @<a href="https://cnerg-iitkgp.github.io/">CNeRG</a>
+<h1> Paper Discussions and Talks @<a href="https://cnerg-iitkgp.github.io/">CNeRG</a> </h1>
 
 {% for post in site.rgTalks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+<h1> Talks </h1>
+
+{% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
 
