@@ -9,13 +9,15 @@ author_profile: true
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 {% endif %}
 
-<button type="button" class="header">Conference Presentations</button>
+<button type="button" class="collapsible">Conference Presentations</button>
 
+<div class="content">
 {% for post in site.talks reversed %}
   {% if post.type == "conf" %}
     {% include archive-single-talk.html %}
   {% endif %}
 {% endfor %}
+</div>
 
 <br>
 
