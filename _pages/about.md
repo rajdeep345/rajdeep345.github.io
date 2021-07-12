@@ -19,6 +19,7 @@ Aspect-based Sentiment Analysis, Emotion Analysis, Text Summarization, AI for To
 News
 ======
 <ul class="smallFont">
+  <li> Reviewing for <a href="https://nips.cc/">NeurIPS 2021</a> </li>
   <li> [Jul 2021] Going to present our work at SIGIR 2021! [<a href="/files/pdf/research/VADEC_SIGIR2021_Poster.pdf">Poster</a>] [<a href="https://docs.google.com/presentation/d/e/2PACX-1vQpnzCkBpsfsG5ah-KKegGFc90IwTHZiLkzB76kUXlrmrz7m-6JnWl3-uTfoFs-LsNVbmPE2JqAXdHT/pub?start=false&loop=false&delayms=3000">Slides</a>] [<a href="https://files.atypon.com/acm/a419079f7fed8d5a4e1e8cf5553b7139">Pre-recorded Video</a>] </li>
   <li> [Jun 2021] Attended <a href="https://leibniz-ai-lab.de/?etn=upcoming-events/">Harnessing Big Data for Precision Medicine and Healthcare</a>, Leibniz AI Lab </li>
   <li> [Jun 2021] Attended Symposium on Artificial Intelligence and Law (<a href="https://sites.google.com/view/sail-2021/">SAIL 2021</a>) </li>
