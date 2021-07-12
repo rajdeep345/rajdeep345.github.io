@@ -2,12 +2,10 @@
 
 {% if include.id %}
   {% assign gallery = page.[include.id] %}
+{% elseif page.galleryCount %}
+  {% assign gallery = page.gallery2 %}  
 {% else %}
-  {% if page.galleryCount == 2 %}
-    {% assign gallery = page.gallery2 %}  
-  {% else %}
-    {% assign gallery = page.gallery %}
-  {% endif %}
+  {% assign gallery = page.gallery %}  
 {% endif %}
 
 {% if gallery.size == 2 %}
