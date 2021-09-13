@@ -19,7 +19,8 @@ Aspect-based Sentiment Analysis, Emotion Analysis, Text Summarization, AI for To
 News
 ======
 <ul class="smallFont">
-  <li> [Aug 2021] <b>Paper Alert</b> - Long Paper accepted at EMNLP 2021 Main Conference!!
+  <li> [Sep 2021] CNeRG Reading Group Talk: SummEval: Re-evaluating Summarization Evaluation (Fabbri et. al., TACL 2021) [<a href="https://docs.google.com/presentation/d/e/2PACX-1vTbmzIu7TBEyZvRoZZWSvuNqjQsoAckhWd_7K4rtrKNFTjHTD7RQWhEfanTajUtb4-5eW22Svpt7HnN/pub?start=false&loop=false&delayms=3000">Slides</a>] </li>
+  <li> [Aug 2021] <b>Paper Alert</b> - Long Paper accepted at EMNLP 2021 Main Conference!! </li>
   <li> [Jul 2021] Reviewing for <a href="https://nips.cc/">NeurIPS 2021</a> </li>
   <li> [Jul 2021] Going to present our work at SIGIR 2021! [<a href="/files/pdf/research/VADEC_SIGIR2021_Poster.pdf">Poster</a>] [<a href="https://docs.google.com/presentation/d/e/2PACX-1vQpnzCkBpsfsG5ah-KKegGFc90IwTHZiLkzB76kUXlrmrz7m-6JnWl3-uTfoFs-LsNVbmPE2JqAXdHT/pub?start=false&loop=false&delayms=3000">Slides</a>] [<a href="https://files.atypon.com/acm/a419079f7fed8d5a4e1e8cf5553b7139">Pre-recorded Video</a>] [<a href="/posts/2021/07-c04-sigir21">Blog</a>] </li>
   <li> [Jun 2021] Attended <a href="https://leibniz-ai-lab.de/?etn=upcoming-events/">Harnessing Big Data for Precision Medicine and Healthcare</a>, Leibniz AI Lab </li>
