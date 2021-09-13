@@ -27,7 +27,7 @@ Professional Activities
 
 <ul>
 	<li> Reviewer/Sub-Reviewer for Conference: NeurIPS'21, SIGIR'21, SDM'21, CODS-COMAD'21, EMNLP'20, SIGIR'20, LREC'20, EMNLP'19, CODS-COMAD'19 </li>
-	<li> Reviewer/Sub-Reviewer for Journal: TWEB'20, TCSS'20 </li>
+	<li> Reviewer/Sub-Reviewer for Journal: IJDRR'21, TWEB'20, TCSS'20 </li>
 </ul>
 
 <br>
@@ -36,6 +36,9 @@ Teaching Experience (Teaching Assistant)
 ======
 
 <ul>
+	<li> <a href="http://cse.iitkgp.ac.in/~saptarshi/courses/ir2021a/">CS60092: Information Retrieval</a> <br>
+		<i> Autumn'21, NPTEL </i> (Instructor: <a href="https://sites.google.com/site/saptarshighosh/home?authuser=0">Prof. Saptarshi Ghosh</a>)
+	</li>
 	<li> <a href="https://nptel.ac.in/noc/courses/noc21/SEM2/noc21-cs102/">noc21-cs102: Natural Language Processing</a> <br>
 		<i> Autumn'21, NPTEL </i> (Instructor: <a href="http://cse.iitkgp.ac.in/~pawang/">Prof. Pawan Goyal</a>)
 	</li>
