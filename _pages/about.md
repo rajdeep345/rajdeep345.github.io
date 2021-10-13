@@ -19,6 +19,7 @@ Aspect-based Sentiment Analysis, Emotion Analysis, Text Summarization, AI for To
 News
 ======
 <ul class="smallFont">
+  <li> [Oct 2021] <b>Paper Alert</b> - Long Paper accepted at WSDM 2022!! </li>
   <li> [Sep 2021] CNeRG Reading Group Talk: SummEval: Re-evaluating Summarization Evaluation (Fabbri et. al., TACL 2021) [<a href="https://docs.google.com/presentation/d/e/2PACX-1vTbmzIu7TBEyZvRoZZWSvuNqjQsoAckhWd_7K4rtrKNFTjHTD7RQWhEfanTajUtb4-5eW22Svpt7HnN/pub?start=false&loop=false&delayms=3000">Slides</a>] </li>
   <li> [Aug 2021] <b>Paper Alert</b> - Long Paper accepted at EMNLP 2021 Main Conference!! </li>
   <li> [Jul 2021] Reviewing for <a href="https://nips.cc/">NeurIPS 2021</a> </li>
