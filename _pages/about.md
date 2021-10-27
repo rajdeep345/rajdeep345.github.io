@@ -19,15 +19,18 @@ Aspect-based Sentiment Analysis, Emotion Analysis, Text Summarization, AI for To
 News
 ======
 <ul class="smallFont">
-  <li> [Oct 2021] <b>Paper Alert</b> - Long Paper accepted at WSDM 2022!! </li>
+  <li> [Nov 2021] Going to present our work at EMNLP 2021! [<a href="/files/pdf/research/PASTE_EMNLP2021_Poster.pdf">Poster</a>] [<a href="https://docs.google.com/presentation/d/e/2PACX-1vQ3W4tGs6iSBfhxtr4FX6qccGqucRlYSkPyqJfhoQtZt7iZbIFXe06oy7J-vMvRbNLIyj0PzSRfh8GB/pub?start=false&loop=false&delayms=10000">Slides</a>] </li>
+  <li> [Oct 2021] <b><i>Paper Alert</i></b> - Long Paper accepted at <a href="https://www.wsdm-conference.org/2022/">WSDM 2022</a>! </li>
   <li> [Sep 2021] CNeRG Reading Group Talk: SummEval: Re-evaluating Summarization Evaluation (Fabbri et. al., TACL 2021) [<a href="https://docs.google.com/presentation/d/e/2PACX-1vTbmzIu7TBEyZvRoZZWSvuNqjQsoAckhWd_7K4rtrKNFTjHTD7RQWhEfanTajUtb4-5eW22Svpt7HnN/pub?start=false&loop=false&delayms=3000">Slides</a>] </li>
-  <li> [Aug 2021] <b>Paper Alert</b> - Long Paper accepted at EMNLP 2021 Main Conference!! </li>
+  <li> [Aug 2021] <a href="/files/pdf/research/c05.pdf">Paper</a> on utilizing a <i>Pointer Network</i> based encoder-decoder architecture for solving <i>Aspect Sentiment Triplet Extraction</i> accepted at EMNLP 2021 Main Conference! </li>
+  <li> [Aug 2021] <b><i>Paper Alert</i></b> - Long Paper accepted at <a href="https://2021.emnlp.org/papers">EMNLP 2021</a> Main Conference! </li>
   <li> [Jul 2021] Reviewing for <a href="https://nips.cc/">NeurIPS 2021</a> </li>
   <li> [Jul 2021] Going to present our work at SIGIR 2021! [<a href="/files/pdf/research/VADEC_SIGIR2021_Poster.pdf">Poster</a>] [<a href="https://docs.google.com/presentation/d/e/2PACX-1vQpnzCkBpsfsG5ah-KKegGFc90IwTHZiLkzB76kUXlrmrz7m-6JnWl3-uTfoFs-LsNVbmPE2JqAXdHT/pub?start=false&loop=false&delayms=3000">Slides</a>] [<a href="https://files.atypon.com/acm/a419079f7fed8d5a4e1e8cf5553b7139">Pre-recorded Video</a>] [<a href="/posts/2021/07-c04-sigir21">Blog</a>] </li>
   <li> [Jun 2021] Attended <a href="https://leibniz-ai-lab.de/?etn=upcoming-events/">Harnessing Big Data for Precision Medicine and Healthcare</a>, Leibniz AI Lab </li>
   <li> [Jun 2021] Attended Symposium on Artificial Intelligence and Law (<a href="https://sites.google.com/view/sail-2021/">SAIL 2021</a>) </li>
   <li> [Apr 2021] <a href="/files/pdf/research/c04.pdf">Paper</a> on utilizing the better representational power of <i> Dimensional Models </i> for <i> Categorical Analysis of Emotions </i> from tweets accepted at SIGIR 2021! </li>
-  <li> [Mar 2021] Presented our work at ECIR 2021! [<a href="https://docs.google.com/presentation/d/e/2PACX-1vSA0cnc7YFzkoyj2sQRn7eg6EJjO9IY33Rh1csHfJr1XuEKxRqx3IBHigfTb5bLa8uFeXlxQdK7R6hM/pub?start=false&loop=false&delayms=3000">Slides</a>] [<a href="https://drive.google.com/file/d/1_Nb4dZpG3c8CjNq1l6DtHk75n-5xQOi-/view?usp=sharing">Pre-recorded Video</a>] </li>
+  <li> [Apr 2021] <b><i>Paper Alert</i></b> - Short Paper accepted at SIGIR 2021!! </li>
+  <li> [Mar 2021] Going to present our work at ECIR 2021! [<a href="https://docs.google.com/presentation/d/e/2PACX-1vSA0cnc7YFzkoyj2sQRn7eg6EJjO9IY33Rh1csHfJr1XuEKxRqx3IBHigfTb5bLa8uFeXlxQdK7R6hM/pub?start=false&loop=false&delayms=3000">Slides</a>] [<a href="https://drive.google.com/file/d/1_Nb4dZpG3c8CjNq1l6DtHk75n-5xQOi-/view?usp=sharing">Pre-recorded Video</a>] </li>
   <li> [Mar 2021] Reviewing for ACM Transactions on the Web (<a href="https://dl.acm.org/journal/tweb/">TWEB 2020</a>) </li>
   <li> [Mar 2021] Reviewing for International Journal of Disaster Risk Reduction (<a href="https://www.journals.elsevier.com/international-journal-of-disaster-risk-reduction">IJDRR 2021</a>) </li>
   <li> [Feb 2021] Reviewing for <a href="https://sigir.org/sigir2021/">SIGIR 2021</a> </li>
@@ -36,11 +39,13 @@ News
   <li> [Dec 2020] Invited to attend Amazon Research Days 2020! </li>
   <li> [Dec 2020] Reviewing for IEEE Transactions on Computational Social Systems (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650">TCSS 2020</a>) </li>
   <li> [Dec 2020] Attended Indian Symposium on Machine Learning (<a href="https://labs.iitgn.ac.in/datascience/indoml/">IndoML 2020</a>) </li>
-  <li> [Dec 2020] <a href="/files/pdf/research/c03.pdf">Paper</a> on assessing the <i> Production Readiness </i> of State-of-the-art <i> Aspect-based Sentiment Analysis </i> models accepted at <a href="https://www.ecir2021.eu/">ECIR 2021</a>! </li>
+  <li> [Dec 2020] <a href="/files/pdf/research/c03.pdf">Paper</a> on assessing the <i> Production Readiness </i> of State-of-the-art <i> Aspect-based Sentiment Analysis </i> models accepted at ECIR 2021! </li>
+  <li> [Dec 2020] <b><i>Paper Alert</i></b> - Long Paper accepted at <a href="https://www.ecir2021.eu/">ECIR 2021</a>! </li>
   <li> [Nov 2020] Reviewing for SIAM International Conference on Data Mining (<a href="https://www.siam.org/conferences/cm/conference/sdm21">SDM 2021</a>) </li>
-  <li> [Jul 2020] Presented our work at SIGIR 2020! [<a href="https://docs.google.com/presentation/d/e/2PACX-1vT-oaf6d6ISese7sXIYtpQZYxILEjnsP4L2ZTqHGmeg235De_dzfaCJNDOMkGzzFuxFlS_WDB4bBJzX/pub?start=false&loop=false&delayms=3000">Slides</a>] [<a href="https://dl.acm.org/doi/abs/10.1145/3397271.3401269">Video</a>] My <i> first </i> conference presentation! </li>
+  <li> [Jul 2020] Going to present our work at SIGIR 2020! [<a href="https://docs.google.com/presentation/d/e/2PACX-1vT-oaf6d6ISese7sXIYtpQZYxILEjnsP4L2ZTqHGmeg235De_dzfaCJNDOMkGzzFuxFlS_WDB4bBJzX/pub?start=false&loop=false&delayms=3000">Slides</a>] [<a href="https://dl.acm.org/doi/abs/10.1145/3397271.3401269">Video</a>] My <i> first </i> conference presentation! </li>
   <li> [May 2020] Conference Practice Talk: Read what you need: Controllable Aspect-based Opinion Summarization of Tourist Reviews (SIGIR 2020) [<a href="https://docs.google.com/presentation/d/e/2PACX-1vT-oaf6d6ISese7sXIYtpQZYxILEjnsP4L2ZTqHGmeg235De_dzfaCJNDOMkGzzFuxFlS_WDB4bBJzX/pub?start=false&loop=false&delayms=3000">Slides</a>] </li>
-  <li> [Apr 2020] <a href="/files/pdf/research/c02.pdf">Paper</a> on Controllable Opinion Summarization accepted at SIGIR 2020! </li>
+  <li> [Apr 2020] <a href="/files/pdf/research/c02.pdf">Paper</a> on <i>Controllable Opinion Summarization</i> accepted at SIGIR 2020! </li>
+  <li> [Apr 2020] <b><i>Paper Alert</i></b> - Short Paper accepted at SIGIR 2020! </li>
   <li> [Feb 2020] Reviewing for <a href="https://sigir.org/sigir2020/">SIGIR 2020</a> </li>
   <li> [Sep 2019] Invited to attend Amazon Research Days 2019! </li>
   <li> [May 2019] CNeRG Reading Group Talk: Linguistically-Informed Self-Attention for Semantic Role Labeling (Strubel et. al., EMNLP 2018) [<a href="https://docs.google.com/presentation/d/e/2PACX-1vR308wHtYIzPVuO1pRcwbqSTxbHmacEXwIwMRny48PE4aVWbrK9RGNjV-FXFQ3A4A/pub?start=false&loop=false&delayms=3000">Slides</a>] </li>
