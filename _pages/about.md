@@ -19,7 +19,7 @@ Aspect-based Sentiment Analysis, Emotion Analysis, Text Summarization, AI for To
 News
 ======
 <ul class="smallFont">
-  <li> [Nov 2021] Going to present our work at EMNLP 2021! [<a href="/files/pdf/research/PASTE_EMNLP2021_Poster.pdf">Poster</a>] [<a href="https://docs.google.com/presentation/d/e/2PACX-1vQ3W4tGs6iSBfhxtr4FX6qccGqucRlYSkPyqJfhoQtZt7iZbIFXe06oy7J-vMvRbNLIyj0PzSRfh8GB/pub?start=false&loop=false&delayms=10000">Slides</a>] </li>
+  <li> [Nov 2021] Going to present our work at EMNLP 2021! [<a href="/files/pdf/research/PASTE_EMNLP2021_Poster.pdf">Poster</a>] [<a href="https://docs.google.com/presentation/d/e/2PACX-1vQ3W4tGs6iSBfhxtr4FX6qccGqucRlYSkPyqJfhoQtZt7iZbIFXe06oy7J-vMvRbNLIyj0PzSRfh8GB/pub?start=false&loop=false&delayms=10000">Slides</a>] [<a href="https://drive.google.com/file/d/1ugghVluFXIP_xpIDKlp4VsivXODgt2RI/view?usp=sharing">Pre-recorded Video</a>] </li>
   <li> [Oct 2021] <b><i>Paper Alert</i></b> - Long Paper accepted at <a href="https://www.wsdm-conference.org/2022/">WSDM 2022</a>! </li>
   <li> [Sep 2021] CNeRG Reading Group Talk: SummEval: Re-evaluating Summarization Evaluation (Fabbri et. al., TACL 2021) [<a href="https://docs.google.com/presentation/d/e/2PACX-1vTbmzIu7TBEyZvRoZZWSvuNqjQsoAckhWd_7K4rtrKNFTjHTD7RQWhEfanTajUtb4-5eW22Svpt7HnN/pub?start=false&loop=false&delayms=3000">Slides</a>] </li>
   <li> [Aug 2021] <a href="/files/pdf/research/c05.pdf">Paper</a> on utilizing a <i>Pointer Network</i> based encoder-decoder architecture for solving <i>Aspect Sentiment Triplet Extraction</i> accepted at EMNLP 2021 Main Conference! </li>
