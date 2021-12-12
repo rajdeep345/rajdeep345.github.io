@@ -26,7 +26,7 @@ Professional Activities
 ======
 
 <ul>
-	<li> Reviewer/Sub-Reviewer for Conference: NeurIPS'21, SIGIR'21, SDM'21, CODS-COMAD'21, EMNLP'20, SIGIR'20, LREC'20, EMNLP'19, CODS-COMAD'19 </li>
+	<li> Reviewer/Sub-Reviewer for Conference: ACL'22, NeurIPS'21, SIGIR'21, SDM'21, CODS-COMAD'21, EMNLP'20, SIGIR'20, LREC'20, EMNLP'19, CODS-COMAD'19 </li>
 	<li> Reviewer/Sub-Reviewer for Journal: IJDRR'21, TWEB'20, TCSS'20 </li>
 </ul>
 
