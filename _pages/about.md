@@ -19,7 +19,7 @@ Aspect-based Sentiment Analysis, Emotion Analysis, Text Summarization, AI for To
 News
 ======
 <ul class="smallFont">
-  <li> [Dec 2021] <b><i>Microsoft Research Travel Grant</i></b> and <b><i>ACM-India IARCS Travel Grant</i></b> awarded for attending WSDM 2022 </li>
+  <li> [Dec 2021] <b><i>Microsoft Research Travel Grant</i></b> and <b><i>ACM-India IARCS Travel Grant</i></b> awarded for attending WSDM 2022! </li>
   <li> [Dec 2021] Reviewing for <a href="https://www.2022.aclweb.org/">ACL 2022</a> </li>
   <li> [Nov 2021] Going to present our work at EMNLP 2021! [<a href="/files/pdf/research/PASTE_EMNLP2021_Poster.pdf">Poster</a>] [<a href="https://docs.google.com/presentation/d/e/2PACX-1vQ3W4tGs6iSBfhxtr4FX6qccGqucRlYSkPyqJfhoQtZt7iZbIFXe06oy7J-vMvRbNLIyj0PzSRfh8GB/pub?start=false&loop=false&delayms=10000">Slides</a>] [<a href="https://drive.google.com/file/d/1ugghVluFXIP_xpIDKlp4VsivXODgt2RI/view?usp=sharing">Pre-recorded Video</a>] </li>
   <li> [Oct 2021] <b><i>Paper Alert</i></b> - Long Paper accepted at <a href="https://www.wsdm-conference.org/2022/">WSDM 2022</a>! </li>
