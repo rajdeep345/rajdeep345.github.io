@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <ul class="smallFont">
-	<li> <b> 7th rank worldwide (1st in India) in IEEE (<a href="http://dcase.community/challenge2018/task-bird-audio-detection-results">DCASE 2018</a>) </b> <br>
+	<li> <b> 7th rank worldwide (1st in India) in IEEE <a href="http://dcase.community/challenge2018/task-bird-audio-detection-results">DCASE 2018</a> </b> <br>
 		<i> Participated in IEEE AASP Challenge on Detection and Classification of Acoustic Scenes and Events (DCASE) 2018 as part of my summer internship at IBM India Research Labs. </i>
 	</li>
 	<li> <b> PwC Experience Award (2013) </b> <br>
@@ -31,6 +31,15 @@ Scholarships and Travel Grants
 ======
 
 <ul class="smallFont">
+	<li> <b> Microsoft Research Travel Grant </b> <br>
+		<i> Awarded for attending WSDM 2022 </i>
+	</li>
+	<li> <b> ACM-India and IARCS Travel Grant </b> <br>
+		<i> Awarded for attending WSDM 2022 </i>
+	</li>
+	<li> <b> SIGIR Student Travel Grant 2022 </b> <br>
+		<i> Awarded for registering for WSDM 2022 </i>
+	</li>
 	<li> <b> SIGIR Student Travel Grant 2021 </b> <br>
 		<i> Awarded for attending the conference (virtually) </i>
 	</li>
