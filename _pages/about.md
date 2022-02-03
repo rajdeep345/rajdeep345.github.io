@@ -19,6 +19,8 @@ Aspect-based Sentiment Analysis, Emotion Analysis, Text Summarization, AI for To
 News
 ======
 <ul class="smallFont">
+  <li> [Feb 2022] Going to present our work at WSDM 2022! [<a href="https://docs.google.com/presentation/d/e/2PACX-1vRErrVbF5LqEE1oM2OO_mcvbgKc2nSoOjZ42WLx9ckwiQ-jc4ZKM-JJlH4nKf3VkUL5Q71tMvplc-O-/pub?start=false&loop=false&delayms=10000">Slides</a>] [<a href="https://files.atypon.com/acm/cd7aa8b12948edfbb3d9260b4d706c7c">Pre-recorded Video</a>] </li>
+  <li> [Jan 2022] Reviewing for <a href="https://2022.naacl.org/">NAACL 2022</a> </li>
   <li> [Dec 2021] <b><i>Microsoft Research Travel Grant</i></b> and <b><i>ACM-India IARCS Travel Grant</i></b> awarded for attending WSDM 2022! </li>
   <li> [Dec 2021] Reviewing for <a href="https://www.2022.aclweb.org/">ACL 2022</a> </li>
   <li> [Nov 2021] Going to present our work at EMNLP 2021! [<a href="/files/pdf/research/PASTE_EMNLP2021_Poster.pdf">Poster</a>] [<a href="https://docs.google.com/presentation/d/e/2PACX-1vQ3W4tGs6iSBfhxtr4FX6qccGqucRlYSkPyqJfhoQtZt7iZbIFXe06oy7J-vMvRbNLIyj0PzSRfh8GB/pub?start=false&loop=false&delayms=10000">Slides</a>] [<a href="https://drive.google.com/file/d/1ugghVluFXIP_xpIDKlp4VsivXODgt2RI/view?usp=sharing">Pre-recorded Video</a>] </li>
