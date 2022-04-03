@@ -40,7 +40,7 @@ Teaching Experience (Teaching Assistant)
 		<i> Spring'22, IIT Kharagpur </i> (Instructor: <a href="http://cse.iitkgp.ac.in/~pawang/">Prof. Pawan Goyal</a>)
 	</li>
 	<li> <a href="http://cse.iitkgp.ac.in/~saptarshi/courses/ir2021a/">CS60092: Information Retrieval</a> <br>
-		<i> Autumn'21, NPTEL </i> (Instructor: <a href="https://sites.google.com/site/saptarshighosh/home?authuser=0">Prof. Saptarshi Ghosh</a>)
+		<i> Autumn'21, IIT Kharagpur </i> (Instructor: <a href="https://sites.google.com/site/saptarshighosh/home?authuser=0">Prof. Saptarshi Ghosh</a>)
 	</li>
 	<li> <a href="https://nptel.ac.in/noc/courses/noc21/SEM2/noc21-cs102/">noc21-cs102: Natural Language Processing</a> <br>
 		<i> Autumn'21, NPTEL </i> (Instructor: <a href="http://cse.iitkgp.ac.in/~pawang/">Prof. Pawan Goyal</a>)
