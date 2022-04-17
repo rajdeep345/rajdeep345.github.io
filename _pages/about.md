@@ -23,7 +23,7 @@ News
   <li> [Mar 2022] CNeRG Reading Group Talk: Learning with Different Amounts of  Annotation: From Zero to Many Labels (Zhang et. al., EMNLP 2021) [<a href="https://docs.google.com/presentation/d/e/2PACX-1vTu8slBnjM_SFfCzf-upZMfJPJ8es1Tz-GSu8IcS7TcLTUXGdg746s2zsZfJsmVVg/pub?start=true&loop=false&delayms=3000">Slides</a>] </li>
   <li> [Feb 2022] Reviewing for <a href="https://sigir.org/sigir2022/">SIGIR 2022</a> </li>
   <li> [Feb 2022] Presenting our work at WSDM 2022! [<a href="/files/pdf/research/MTLTS_WSDM2022_fp870_Poster.pdf">Poster</a>] [<a href="https://docs.google.com/presentation/d/e/2PACX-1vRErrVbF5LqEE1oM2OO_mcvbgKc2nSoOjZ42WLx9ckwiQ-jc4ZKM-JJlH4nKf3VkUL5Q71tMvplc-O-/pub?start=false&loop=false&delayms=10000">Slides</a>] [<a href="https://files.atypon.com/acm/cd7aa8b12948edfbb3d9260b4d706c7c">Pre-recorded Video</a>] </li>
-  <li> [Feb 2022] Presenting <a href="/talks/2022-02-11-seminar-03">EMNLP'21</a> and <a href="/talks/2022-02-11-seminar-04">WSDM'22</a> papers at The 16th Academic Research and Careers for Students Symposium, <a href="https://event.india.acm.org/ARCS/">ARCS 2022</a>!
+  <li> [Feb 2022] Presenting <a href="/talks/2022-02-11-seminar-03">EMNLP'21</a> and <a href="/talks/2022-02-11-seminar-04">WSDM'22</a> papers at The 16th Academic Research and Careers for Students Symposium, <a href="https://event.india.acm.org/ARCS/">ARCS 2022</a>! </li>
   <li> [Jan 2022] Reviewing for <a href="https://2022.naacl.org/">NAACL 2022</a> </li>
   <li> [Dec 2021] <b><i>Microsoft Research Travel Grant</i></b> and <b><i>ACM-India IARCS Travel Grant</i></b> awarded for attending WSDM 2022! </li>
   <li> [Dec 2021] Reviewing for <a href="https://www.2022.aclweb.org/">ACL 2022</a> </li>
