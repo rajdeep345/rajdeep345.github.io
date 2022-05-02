@@ -19,6 +19,7 @@ Aspect-based Sentiment Analysis, Emotion Analysis, Text Summarization, AI for To
 News
 ======
 <ul class="smallFont">
+  <li> [Apr 2022] <b><i>Paper Alert</i></b> - Paper accepted at <a href="https://semeval.github.io/SemEval2022/">SemEval 2022</a> (collocated with <a href="https://2022.naacl.org/">NAACL 2022</a>! </li>
   <li> [Apr 2022] <b><i>Paper Alert</i></b> - Long Paper accepted at <a href="https://sigir.org/sigir2022/call-for-resource-papers/">SIGIR 2022</a> Resource Track! </li>
   <li> [Mar 2022] CNeRG Reading Group Talk: Learning with Different Amounts of  Annotation: From Zero to Many Labels (Zhang et. al., EMNLP 2021) [<a href="https://docs.google.com/presentation/d/e/2PACX-1vTu8slBnjM_SFfCzf-upZMfJPJ8es1Tz-GSu8IcS7TcLTUXGdg746s2zsZfJsmVVg/pub?start=true&loop=false&delayms=3000">Slides</a>] </li>
   <li> [Feb 2022] Reviewing for <a href="https://sigir.org/sigir2022/">SIGIR 2022</a> </li>
