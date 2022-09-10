@@ -21,7 +21,7 @@ News
 <ul class="smallFont">
   <li> [Sep 2022] Reviewing for <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a> </li>
   <li> [Aug 2022] Selected as a <b>PC Member</b> for <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>! </li>
-  <li> [July 2022] Reviewing for <a href="https://2022.emnlp.org/">EMNLP 2022</a> </li>
+  <li> [Jul 2022] Reviewing for <a href="https://2022.emnlp.org/">EMNLP 2022</a> </li>
   <li> [Jun 2022] Selected as a <b>PC Member</b> for <a href="https://2022.emnlp.org/">EMNLP 2022</a>! </li>
   <li> [Apr 2022] <b><i>Paper Alert</i></b> - Paper accepted at <a href="https://semeval.github.io/SemEval2022/">SemEval 2022</a> (collocated with <a href="https://2022.naacl.org/">NAACL 2022</a>)! </li>
   <li> [Apr 2022] <b><i>Paper Alert</i></b> - Long Paper accepted at <a href="https://sigir.org/sigir2022/call-for-resource-papers/">SIGIR 2022</a> Resource Track! </li>
