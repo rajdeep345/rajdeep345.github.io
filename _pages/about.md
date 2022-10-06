@@ -19,6 +19,8 @@ Aspect-based Sentiment Analysis, Emotion Analysis, Text Summarization, AI for To
 News
 ======
 <ul class="smallFont">
+  <li> [Oct 2022] <b><i>Paper Alert</i></b> - Long Paper accepted at <a href="https://2022.emnlp.org/">EMNLP 2022</a> Main Conference! </li>
+  <li> [Sep 2022] CNeRG Reading Group Talk: Learning With Limited Data (ACL 2022 Tutorial) [<a href="https://docs.google.com/presentation/d/e/2PACX-1vRZSiVF_oJqRl2hKRGSR9xeQw_j8kd4dbJ3g2-sHr1uyerUT-PzPXdBt4RYQLdcjA/pub?start=true&loop=false&delayms=5000">Slides</a>] </li>
   <li> [Sep 2022] <b><i>Paper Alert</i></b> - Long Paper accepted at <a href="https://www.aacl2022.org/">AACL 2022</a>! </li>
   <li> [Sep 2022] Reviewing for <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a> </li>
   <li> [Aug 2022] Selected as a <b>PC Member</b> for <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>! </li>
