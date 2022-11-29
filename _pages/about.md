@@ -23,7 +23,7 @@ News
   <li> [Nov 2022] Attending <b>Amazon Research Days 2022</b> in Bangalore! </li>
   <li> [Nov 2022] Reviewing for EACL 2023 </li>
   <li> [Oct 2022] Selected as a <b>PC Member</b> for <a href="https://2023.eacl.org/">EACL 2023</a>! </li>
-  <li> [Oct 2022] Reviewing for <a href="https://openreview.net/group?id=aclweb.org/ACL/ARR/2022/October"> ACL Rolling Review - October 2022 Cycle </a> </li>
+  <li> [Oct 2022] Reviewing for <a href="https://openreview.net/group?id=aclweb.org/ACL/ARR/2022/October"> ACL Rolling Review </a> - October 2022 Cycle </li>
   <li> [Oct 2022] Delivered an <b><i>Invited Talk</i></b> on <a href="https://docs.google.com/presentation/d/e/2PACX-1vT7-BFv5OyNeT1iFBqReP2h8OBBc6bSDxeO02a5dyLcjqGa5U2omRgIece1wilv8RWvfyC3Vf0HzCzn/pub?start=true&loop=false&delayms=10000">Crowdsourcing in NLP</a> at <b><i>IIT Bombay</i></b></li>
   <li> [Oct 2022] <b><i>Paper Alert</i></b> - Long Paper accepted at <a href="https://2022.emnlp.org/">EMNLP 2022</a> Main Conference! </li>
   <li> [Sep 2022] CNeRG Reading Group Talk: Learning With Limited Data (ACL 2022 Tutorial) [<a href="https://docs.google.com/presentation/d/e/2PACX-1vRZSiVF_oJqRl2hKRGSR9xeQw_j8kd4dbJ3g2-sHr1uyerUT-PzPXdBt4RYQLdcjA/pub?start=true&loop=false&delayms=5000">Slides</a>] </li>
