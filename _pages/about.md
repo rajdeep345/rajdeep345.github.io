@@ -14,7 +14,7 @@ I obtained my Masters from IIIT Delhi under the supervision of [Prof. Sambuddho 
 
 Research Interests
 ======
-Aspect-based Sentiment Analysis, Emotion Analysis, Text Summarization, AI for Tourism
+Aspect-based Sentiment Analysis, Emotion Analysis, Text Summarization, AI for Tourism/Finance
 
 News
 ======
