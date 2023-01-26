@@ -19,8 +19,9 @@ Aspect-based Sentiment Analysis, Emotion Analysis, Text Summarization, AI for To
 News
 ======
 <ul class="smallFont">
-  <li> [Jan 2023] Selected to attend <a href="https://sites.google.com/view/researchweek2023/home">Research Week with Google"</a> in Bangalore! </li>
+  <li> [Jan 2023] Selected to attend <a href="https://sites.google.com/view/researchweek2023/home">Research Week with Google 2023</a> in Bangalore! </li>
   <li> [Jan 2023] Delivered an <b><i>Invited Talk</i></b> on <a href="https://docs.google.com/presentation/d/e/2PACX-1vR1rlkZR5sWzucTKmvWSTCG2DGv37DtMgYilka_EyccgbvLSS19QU42MoKNvuuCH2yEmgmoi2SHPNW8/pub?start=true&loop=false&delayms=5000">Trustworthy Summarization Of Crisis-related Tweets</a> at <a href="https://cods-comad.in/technical-program.php">CODS COMAD 2023</a> held at <b><i>IIT Bombay!</i></b></li>
+  <li> [Dec 2022] Delivered an <b><i>Invited Talk</i></b> on <a href="https://docs.google.com/presentation/d/e/2PACX-1vSq7fPoiVBTZgKCC5BNV07zXrTvo2saa2yt13MbyZ6_tn6sqw6_qhwe2t17tBosvB6DGZEMk6Zlx3ml/pub?start=true&loop=false&delayms=5000">ECTSum (EMNLP 2022 Long Paper)</a> at <b><i>Goldman Sachs Data Science Meetup Group</i></b>! </li>
   <li> [Dec 2022] Selected as a <b>PC Member</b> for <a href="https://2023.aclweb.org//">ACL 2023</a>! </li>
   <li> [Dec 2022] Attended <a href="https://indoml.in/">IndoML 2022</a> at IIT Gandhinagar! </li>
   <li> [Nov 2022] Presented our work at <b>EMNLP 2022</b>! [<a href="/files/pdf/research/ECTSum_EMNLP2022_Poster.pdf">Poster</a>] [<a href="https://docs.google.com/presentation/d/e/2PACX-1vTGUke-pXTT9MtbVOJCuO_A7Lnaeex7LBkLAY6uxPVEGZ5l6mqvHkENADlPd9lMHXCkZCQMQSgZJFpN/pub?start=true&loop=false&delayms=3000">Slides</a>] [<a href="https://drive.google.com/file/d/1DW2i2ApgiE6V7ViiayX5zdJSRXdAEbsy/view?usp=sharing">Pre-recorded Video</a>] </li>
