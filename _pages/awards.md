@@ -31,6 +31,9 @@ Scholarships and Travel Grants
 ======
 
 <ul class="smallFont">
+	<li> <b> ACM-India and IARCS Travel Grant </b> <br>
+		<i> Awarded for attending EMNLP 2022 </i>
+	</li>
 	<li> <b> Microsoft Research Travel Grant </b> <br>
 		<i> Awarded for attending WSDM 2022 </i>
 	</li>
