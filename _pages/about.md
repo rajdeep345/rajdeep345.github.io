@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a fifth-year Ph.D. Candidate at the Dept. of Computer Science and Engineering, IIT Kharagpur advised by [Prof. Pawan Goyal](http://cse.iitkgp.ac.in/~pawang/) and [Prof. Sourangshu Bhattacharya](http://cse.iitkgp.ac.in/~sourangshu/). As part of the Complex Networks Research Group ([CNeRG](https://cnerg-iitkgp.github.io/)), I work on problems that lie at the intersection of Natural Language Processing, Information Retrieval, and Computational Social Science. In 2018, I interned at IBM Research, India with [Dipyaman Banerjee](https://scholar.google.co.in/citations?user=zFoDxz8AAAAJ&hl=en) and [Kuntal Dey](https://scholar.google.com/citations?user=IlC2GRUAAAAJ&hl=en).
+Welcome! I am a final-year Ph.D. Candidate at the Dept. of Computer Science and Engineering, IIT Kharagpur advised by [Prof. Pawan Goyal](http://cse.iitkgp.ac.in/~pawang/) and [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ac.in/~niloy/). As part of the Complex Networks Research Group ([CNeRG](https://cnerg-iitkgp.github.io/)), I work on problems that lie at the intersection of Natural Language Processing, Information Retrieval, and Computational Social Science. In 2018, I interned at IBM Research, India with [Dipyaman Banerjee](https://scholar.google.co.in/citations?user=zFoDxz8AAAAJ&hl=en) and [Kuntal Dey](https://scholar.google.com/citations?user=IlC2GRUAAAAJ&hl=en).
 
 I obtained my Masters from IIIT Delhi under the supervision of [Prof. Sambuddho Chakravarty](https://sites.google.com/site/sambuddhochakravarty/home?authuser=0). I did my Undergrad at Jadavpur University, where I worked with [Prof. Samiran Chattopadhyay](http://www.jaduniv.edu.in/profile.php?uid=615). Additionally, I have four years of professional experience with [PwC India](https://www.pwc.in/) specializing in Data Modeling and Business Intelligence.
 
 Research Interests
 ======
-Aspect-based Sentiment Analysis, Emotion Analysis, Text Summarization, AI for Tourism/Finance
+Broadly Natural Language Processing, both NLU (Understanding) and NLG (Generation), including but not limited to Aspect-based Sentiment Analysis, Text Summarization, Evaluation, Explainability, and AI for Tourism
 
 News
 ======
 <ul class="smallFont">
+  <li> [Feb 2023] Delivered an <b><i>Invited Talk</i></b> on <a href="https://docs.google.com/presentation/d/e/2PACX-1vRx9NYdSlseXbC_EF1seA7fOTEI2cWdE3mck0YGtBEygZmHkPkEIy-fS-WRQlQUnP0wn77LjMTn0X9k/pub?start=true&loop=false&delayms=30000">Trustworthy Summarization Of Crisis-related Tweets</a> at <b><i>IISER Bhopal!</i></b></li>
+  <li> [Feb 2023] Presented our WSDM 2022 Paper (<b><i>Invited Spotlight Talk</i></b>) at <a href="https://event.india.acm.org/ARCS/#arcs-schedule">ACM ARCS 2023</a> [<a href="/files/pdf/research/MTLTS_WSDM2022_Poster_ARCS2023.pdf">Poster</a>] [<a href="https://docs.google.com/presentation/d/e/2PACX-1vS3cSl6et5Zkv7rI3YoVUr-zJ53zFyvTYw8DZCb3p2ki3L-73gOrLNZv8aMhraP1aFUQxYP4ewo2IA8/pub?start=true&loop=false&delayms=5000">Slides</a>]
   <li> [Jan 2023] Selected to attend <a href="https://sites.google.com/view/researchweek2023/home">Research Week with Google 2023</a> in Bangalore! </li>
   <li> [Jan 2023] Delivered an <b><i>Invited Talk</i></b> on <a href="https://docs.google.com/presentation/d/e/2PACX-1vR1rlkZR5sWzucTKmvWSTCG2DGv37DtMgYilka_EyccgbvLSS19QU42MoKNvuuCH2yEmgmoi2SHPNW8/pub?start=true&loop=false&delayms=5000">Trustworthy Summarization Of Crisis-related Tweets</a> at <a href="https://cods-comad.in/technical-program.php">CODS COMAD 2023</a> held at <b><i>IIT Bombay!</i></b></li>
   <li> [Dec 2022] Delivered an <b><i>Invited Talk</i></b> on <a href="https://docs.google.com/presentation/d/e/2PACX-1vSq7fPoiVBTZgKCC5BNV07zXrTvo2saa2yt13MbyZ6_tn6sqw6_qhwe2t17tBosvB6DGZEMk6Zlx3ml/pub?start=true&loop=false&delayms=5000">ECTSum (EMNLP 2022 Long Paper)</a> at <b><i>Goldman Sachs Data Science Meetup Group</i></b>! </li>
