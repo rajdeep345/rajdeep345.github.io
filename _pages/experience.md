@@ -6,17 +6,23 @@ author_profile: true
 ---
 
 <ul>
+	<li> Amazon Science, Bangalore (April 2023 - Present) <br>
+		<i> Applied Scientist II Intern </i> (with <a href="https://scholar.google.co.in/citations?user=X4JIbvoAAAAJ&hl=en">Sachin Farfade</a>)
+	</li>
 	<li> Dept. of Computer Science and Engineering, IIT Kharagpur (Jan 2018 - Present) <br>
-		<i> Ph.D. Research Scholar </i> (under <a href="http://cse.iitkgp.ac.in/~pawang/">Prof. Pawan Goyal</a> and <a href="http://cse.iitkgp.ac.in/~sourangshu/">Prof. Sourangshu Bhattacharya</a>)
+		<i> Ph.D. Research Scholar </i> (with <a href="http://cse.iitkgp.ac.in/~pawang/">Prof. Pawan Goyal</a> and <a href="http://www.facweb.iitkgp.ac.in/~niloy/">Prof. Niloy Ganguly</a>)
 	</li>
 	<li> IBM India Research Labs, Delhi (May 2018 - Jul 2018) <br>
-		<i> Summer Research Intern </i> (under <a href="https://scholar.google.co.in/citations?user=zFoDxz8AAAAJ&hl=en">Dipyaman Banerjee</a> and <a href="https://scholar.google.com/citations?user=IlC2GRUAAAAJ&hl=en">Kuntal Dey</a>)
+		<i> Summer Research Intern </i> (with <a href="https://scholar.google.co.in/citations?user=zFoDxz8AAAAJ&hl=en">Dipyaman Banerjee</a> and <a href="https://scholar.google.com/citations?user=IlC2GRUAAAAJ&hl=en">Kuntal Dey</a>)
 	</li>
 	<li> Dept. of Computer Science and Engineering, IIT Kharagpur (Aug 2017 - Dec 2017) <br>
-		<i> Senior Project Officer </i> (under <a href="http://www.facweb.iitkgp.ac.in/~niloy/">Prof. Niloy Ganguly</a>)
+		<i> Senior Project Officer </i> (with <a href="http://www.facweb.iitkgp.ac.in/~niloy/">Prof. Niloy Ganguly</a>)
 	</li>
 	<li> Dept. of Computer Science and Engineering, IIIT Delhi (Jun 2016 - Jul 2017) <br>
-		<i> Research Scholar, <a href="https://repository.iiitd.edu.in/jspui/handle/123456789/535">Master's Thesis</a> </i> (under <a href="https://sites.google.com/site/sambuddhochakravarty/home?authuser=0">Prof. Sambuddho Chakravarty</a>)
+		<i> Research Scholar, <a href="https://repository.iiitd.edu.in/jspui/handle/123456789/535">Master's Thesis</a> </i> (with <a href="https://sites.google.com/site/sambuddhochakravarty/home?authuser=0">Prof. Sambuddho Chakravarty</a>)
+	</li>
+	<li> Dept. of Information Technology, Jadavpur University (Jun 2010 - Jul 2011) <br>
+		<i> Research Scholar, <a href="https://link.springer.com/chapter/10.1007%2F978-3-642-35615-5_14">Bachelor's Thesis</a> </i> (with <a href="http://www.jaduniv.edu.in/profile.php?uid=615">Prof. Samiran Chattopadhyay</a>)
 	</li>
 </ul>
 
@@ -26,8 +32,8 @@ Professional Activities
 ======
 
 <ul>
-	<li> <b>Program Committee Member:</b> ACL'23, AAAI'23, EACL'23, EMNLP'22, SIGIR'22 </li>
-	<li> <b>Reviewer/Sub-Reviewer for Conference:</b> ACL'23, AAAI'23, EACL'23, EMNLP'22, SIGIR'22, NAACL'22, ACL'22, NeurIPS'21, SIGIR'21, SDM'21, CODS-COMAD'21, EMNLP'20, SIGIR'20, LREC'20, EMNLP'19, CODS-COMAD'19 </li>
+	<li> <b>Program Committee Member:</b> AAAI['24,'23], WSDM'24, EMNLP['23,'22], ACL'23, EACL'23, SIGIR'22 </li>
+	<li> <b>Reviewer/Sub-Reviewer for Conference:</b> AAAI['24,'23], WSDM'24, EMNLP['23,'22,'20,'19], ACL['23,'22], EACL'23, SIGIR['22,'21','20], NAACL'22, NeurIPS'21, SDM'21, CODS-COMAD['21,'19], LREC'20 </li>
 	<li> <b>Reviewer/Sub-Reviewer for Journal:</b> TWEB'22, Computer Speech and Language'22, IJDRR'21, TWEB'20, TCSS'20 </li>
 </ul>
 

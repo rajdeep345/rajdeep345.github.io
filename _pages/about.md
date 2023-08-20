@@ -8,17 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a final-year Ph.D. Candidate at the Dept. of Computer Science and Engineering, IIT Kharagpur advised by [Prof. Pawan Goyal](http://cse.iitkgp.ac.in/~pawang/) and [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ac.in/~niloy/). As part of the Complex Networks Research Group ([CNeRG](https://cnerg-iitkgp.github.io/)), I work on problems that lie at the intersection of Natural Language Processing, Information Retrieval, and Computational Social Science.
+Hi! I am an Applied Scientist II Intern with the [Machine Learning Center of Excellence](https://www.amazon.jobs/en/teams/machine-learning) at Amazon Science, Bangalore. Additionally, I am a final-year Ph.D. Candidate (Thesis Submitted) at the Dept. of Computer Science and Engineering, IIT Kharagpur advised by [Prof. Pawan Goyal](http://cse.iitkgp.ac.in/~pawang/) and [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ac.in/~niloy/). As part of the Complex Networks Research Group ([CNeRG](https://cnerg-iitkgp.github.io/)), I have worked on problems that lie at the intersection of Natural Language Processing, Information Retrieval, and Computational Social Science.
 
 I obtained my Masters from IIIT Delhi under the supervision of [Prof. Sambuddho Chakravarty](https://sites.google.com/site/sambuddhochakravarty/home?authuser=0). I did my Undergrad at Jadavpur University, where I worked with [Prof. Samiran Chattopadhyay](http://www.jaduniv.edu.in/profile.php?uid=615). Additionally, I have four years of professional experience with [PwC India](https://www.pwc.in/) specializing in Data Modeling and Business Intelligence.
 
 Research Interests
 ======
-Broadly NLP, both NLU (Understanding) and NLG (Generation), including but not limited to Aspect-based Sentiment Analysis, Summarization, Evaluation, Explainability, & AI for Tourism
+Large Language Models, Instruction Tuning, Prompt Tuning, Parameter-Efficient Fine-tuning, Aspect-based Sentiment Analysis, Summarization, & AI for Tourism/Finance/Law
 
 News
 ======
 <ul class="smallFont">
+  <li> [Jul 2023] Selected as a <b>PC Member</b> for <a href="https://aaai.org/aaai-conference/">AAAI 2024</a>! </li>
+  <li> [Jun 2023] Selected as a <b>PC Member</b> for <a href="https://www.wsdm-conference.org/2024/">WSDM 2024</a>! </li>
+  <li> [Jun 2023] Selected as a <b>PC Member</b> for <a href="https://2023.emnlp.org/">EMNLP 2023</a>! </li>
+  <li> [May 2023] <b>Submitted my Ph.D. Thesis!!</b> </li>
+  <li> [Apr 2023] Joined <a href="https://www.amazon.science/">Amazon Science</a> Bangalore as an <b><i>Applied Scientist II Intern!</i></b></li>
+  <li> [Apr 2023] Delivered my <b><i>Ph.D. Synopsis Seminar</i></b> at IIT Kharagpur </li>
+  <li> [Mar 2023] Delivered an <b><i>Invited Talk</i></b> on <a href="https://docs.google.com/presentation/d/e/2PACX-1vTxX5Edk-ZKL3h8H6n_LtZKKZbiS_iaJ-dCpCqUoh63PTRxsZWqFzaqwU80Gt4nztHCxVrgE2ML0Tqw/pub?start=true&loop=false&delayms=5000">Going Beyond ROUGE: Investigating Evaluation Metrics For Domain-Specific Text Summarization</a> at <b><i><a href="https://www.uniphore.com/">Uniphore</a>!</i></b></li>
   <li> [Feb 2023] Delivered an <b><i>Invited Talk</i></b> on <a href="https://docs.google.com/presentation/d/e/2PACX-1vRx9NYdSlseXbC_EF1seA7fOTEI2cWdE3mck0YGtBEygZmHkPkEIy-fS-WRQlQUnP0wn77LjMTn0X9k/pub?start=true&loop=false&delayms=30000">Trustworthy Summarization of Crisis-related Tweets (WSDM 2022 Long Paper)</a> at <b><i>IISER Bhopal!</i></b></li>
   <li> [Feb 2023] Presented our WSDM 2022 Long Paper (<b><i>Invited Spotlight Talk</i></b>) at <a href="https://event.india.acm.org/ARCS/#arcs-schedule">ACM ARCS 2023</a> [<a href="/files/pdf/research/MTLTS_WSDM2022_Poster_ARCS2023.pdf">Poster</a>] [<a href="https://docs.google.com/presentation/d/e/2PACX-1vS3cSl6et5Zkv7rI3YoVUr-zJ53zFyvTYw8DZCb3p2ki3L-73gOrLNZv8aMhraP1aFUQxYP4ewo2IA8/pub?start=true&loop=false&delayms=5000">Slides</a>]
   <li> [Jan 2023] Selected to attend <a href="https://sites.google.com/view/researchweek2023/home">Research Week with Google 2023</a> in Bangalore! </li>
