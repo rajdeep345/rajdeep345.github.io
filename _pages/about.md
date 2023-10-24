@@ -19,6 +19,8 @@ Large Language Models, Instruction Tuning, Prompt Tuning, Parameter-Efficient Fi
 News
 ======
 <ul class="smallFont">
+  <li> [Oct 2023] <b><i>Paper Alert</i></b> - Long Paper accepted at <a href="https://2023.emnlp.org/">EMNLP 2023</a> Findings! </li>
+  <li> [Oct 2023] <b><i>Paper Alert</i></b> - Short Paper accepted at <a href="https://2023.emnlp.org/">EMNLP 2023</a> Main Conference! </li>
   <li> [Jul 2023] Selected as a <b>PC Member</b> for <a href="https://aaai.org/aaai-conference/">AAAI 2024</a>! </li>
   <li> [Jun 2023] Selected as a <b>PC Member</b> for <a href="https://www.wsdm-conference.org/2024/">WSDM 2024</a>! </li>
   <li> [Jun 2023] Selected as a <b>PC Member</b> for <a href="https://2023.emnlp.org/">EMNLP 2023</a>! </li>
