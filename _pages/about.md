@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a final-year Ph.D. Candidate (Thesis Submitted) at the Dept. of Computer Science and Engineering, IIT Kharagpur advised by [Prof. Pawan Goyal](http://cse.iitkgp.ac.in/~pawang/) and [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ac.in/~niloy/). I recently interned as an Applied Scientist II with the [Central Machine Learning Team](https://www.amazon.jobs/en/teams/machine-learning) at Amazon Science, Bangalore. As part of the Complex Networks Research Group ([CNeRG](https://cnerg-iitkgp.github.io/)), I have worked on problems that lie at the intersection of Natural Language Processing, Information Retrieval, and Computational Social Science.
+Hi! I am a final-year Ph.D. Candidate (Thesis Submitted) at the Dept. of Computer Science and Engineering, IIT Kharagpur advised by [Prof. Pawan Goyal](http://cse.iitkgp.ac.in/~pawang/) and [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ac.in/~niloy/). I am also a part of the Complex Networks Research Group ([CNeRG](https://cnerg-iitkgp.github.io/)). I recently interned as an Applied Scientist II with the [Central Machine Learning Team](https://www.amazon.jobs/en/teams/machine-learning) at Amazon Science, Bangalore. My Ph.D. thesis focuses on addressing the modeling and evaluation requirements of text summarization solutions across multiple domains such as e-commerce, finance, disaster mitigation, law, and tourism. At present, I am exploring the utility of LLMs in solving extreme multi-label classification tasks, such as labeling numerals in financial disclosures, and extracting attribute-value pairs for e-commerce products.
 
 I obtained my Masters from IIIT Delhi under the supervision of [Prof. Sambuddho Chakravarty](https://sites.google.com/site/sambuddhochakravarty/home?authuser=0). I did my Undergrad at Jadavpur University, where I worked with [Prof. Samiran Chattopadhyay](http://www.jaduniv.edu.in/profile.php?uid=615). Additionally, I have four years of professional experience with [PwC India](https://www.pwc.in/) specializing in Data Modeling and Business Intelligence.
 
 Research Interests
 ======
-Large Language Models, Instruction Tuning, Prompt Tuning, Parameter-Efficient Fine-tuning, Aspect-based Sentiment Analysis, Summarization, & AI for Tourism/Finance/Law
+Large Language Models, Prompt Engineering, Parameter-Efficient Fine-tuning, Information Extraction, Aspect-based Sentiment Analysis, Summarization, & AI for Tourism/Finance/Law
 
 News
 ======
