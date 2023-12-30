@@ -20,7 +20,7 @@ News
 ======
 <ul class="smallFont">
   <li> [Dec 2023] Presented our works at <b>EMNLP 2023</b>! [<a href="/files/pdf/research/CONTRASTE_EMNLP2023_Poster.pdf">CONTRASTE</a>] [<a href="/files/pdf/research/MILDSum_EMNLP2023_Poster.pdf">MILDSum</a>] </li>
-  <li> [Nov 2023] <b><i>Paper Alert</i></b> - Long Paper accepted DIRECTLY (Acceptance Rate: ~8%) at <a href="https://www.icwsm.org/2024/index.html/"> ICWSM 2024</a>! </li>
+  <li> [Nov 2023] <b><i>Paper Alert</i></b> - Long Paper DIRECT acceptance (Accept. Rate: ~8%) at <a href="https://www.icwsm.org/2024/index.html/">ICWSM 2024</a>! </li>
   <li> [Oct 2023] <b><i>Paper Alert</i></b> - Long Paper accepted at <a href="https://2023.emnlp.org/">EMNLP 2023</a> Findings! </li>
   <li> [Oct 2023] <b><i>Paper Alert</i></b> - Short Paper accepted at <a href="https://2023.emnlp.org/">EMNLP 2023</a> Main Conference! </li>
   <li> [Jul 2023] Selected as a <b>PC Member</b> for <a href="https://aaai.org/aaai-conference/">AAAI 2024</a>! </li>
