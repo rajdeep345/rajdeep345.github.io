@@ -19,10 +19,15 @@ Large Language Models, Prompt Engineering, Parameter-Efficient Fine-tuning, Info
 News
 ======
 <ul class="smallFont">
+  <li> [Dec 2023] Attended <a href="https://indoml.in/">IndoML 2023</a> at IIT Bombay! </li>
   <li> [Dec 2023] Presented our works at <b>EMNLP 2023</b>! [<a href="/files/pdf/research/CONTRASTE_EMNLP2023_Poster.pdf">CONTRASTE</a>] [<a href="/files/pdf/research/MILDSum_EMNLP2023_Poster.pdf">MILDSum</a>] </li>
   <li> [Nov 2023] <b><i>Paper Alert</i></b> - Long Paper DIRECT acceptance (Accept. Rate: ~8%) at <a href="https://www.icwsm.org/2024/index.html/">ICWSM 2024</a>! </li>
+  <li> [Nov 2023] <b><i>Paper Alert</i></b> - Industry Track Paper accepted at <a href="https://www.wsdm-conference.org/2024/">WSDM 2024</a>! </li>
   <li> [Oct 2023] <b><i>Paper Alert</i></b> - Long Paper accepted at <a href="https://2023.emnlp.org/">EMNLP 2023</a> Findings! </li>
   <li> [Oct 2023] <b><i>Paper Alert</i></b> - Short Paper accepted at <a href="https://2023.emnlp.org/">EMNLP 2023</a> Main Conference! </li>
+  <li> [Sep 2023] Reviewing for WSDM 2024 </li>
+  <li> [Sep 2023] Reviewing for AAAI 2024 </li>
+  <li> [Aug 2023] Reviewing for EMNLP 2023 </li>
   <li> [Jul 2023] Selected as a <b>PC Member</b> for <a href="https://aaai.org/aaai-conference/">AAAI 2024</a>! </li>
   <li> [Jun 2023] Selected as a <b>PC Member</b> for <a href="https://www.wsdm-conference.org/2024/">WSDM 2024</a>! </li>
   <li> [Jun 2023] Selected as a <b>PC Member</b> for <a href="https://2023.emnlp.org/">EMNLP 2023</a>! </li>
