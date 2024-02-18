@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a final-year Ph.D. Candidate (Thesis Submitted) at the Dept. of Computer Science and Engineering, IIT Kharagpur advised by [Prof. Pawan Goyal](http://cse.iitkgp.ac.in/~pawang/) and [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ac.in/~niloy/). I am also a part of the Complex Networks Research Group ([CNeRG](https://cnerg-iitkgp.github.io/)). My Ph.D. thesis focuses on addressing the modeling and evaluation requirements of text summarization solutions across multiple domains such as e-commerce, finance, disaster mitigation, law, and tourism. At present, I am exploring the utility of LLMs in solving extreme multi-label classification tasks, such as labeling numerals in financial disclosures, and extracting attribute-value pairs for e-commerce products.
+Hi! I am working as a Senior AI Research Scientist with <b>NielsenIQ</b>. Additionally, I am a final-year Ph.D. Candidate (Thesis Submitted) at the Dept. of Computer Science and Engineering, IIT Kharagpur advised by [Prof. Pawan Goyal](http://cse.iitkgp.ac.in/~pawang/) and [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ac.in/~niloy/). I am also a part of the Complex Networks Research Group ([CNeRG](https://cnerg-iitkgp.github.io/)). My Ph.D. thesis focuses on addressing the modeling and evaluation requirements of text summarization solutions across multiple domains such as e-commerce, finance, disaster mitigation, law, and tourism.
 
 I obtained my Masters from IIIT Delhi under the supervision of [Prof. Sambuddho Chakravarty](https://sites.google.com/site/sambuddhochakravarty/home?authuser=0). I did my Undergrad at Jadavpur University, where I worked with [Prof. Samiran Chattopadhyay](http://www.jaduniv.edu.in/profile.php?uid=615). I recently interned as an Applied Scientist II with the [Central Machine Learning Team](https://www.amazon.jobs/en/teams/machine-learning) at Amazon Science, Bangalore. I have previously interned at [IBM Research](https://research.ibm.com/). Additionally, I have four years of professional experience with [PwC India](https://www.pwc.in/) specializing in Data Modeling and Business Intelligence.
 
 Research Interests
 ======
-Large Language Models, Prompt Engineering, Parameter-Efficient Fine-tuning, Information Extraction, Aspect-based Sentiment Analysis, Summarization, & AI for Tourism/Finance/Law
+Large Language Models, Factuality, Instruction Tuning, Parameter-Efficient Fine-tuning, Extreme Classification, Information Extraction, Aspect-based Sentiment Analysis, Summarization.
 
 News
 ======
 <ul class="smallFont">
+  <li> [Feb 2024] Presented our EMNLP 2022 Long Paper, ECTSum (<b><i>Invited Spotlight Talk</i></b>), at <a href="https://event.india.acm.org/arcs/home/">ACM ARCS 2024</a> [<a href="/files/pdf/research/ECTSum_EMNLP2022_Poster.pdf">Poster</a>] [<a href="https://docs.google.com/presentation/d/e/2PACX-1vTGUke-pXTT9MtbVOJCuO_A7Lnaeex7LBkLAY6uxPVEGZ5l6mqvHkENADlPd9lMHXCkZCQMQSgZJFpN/pub?start=true&loop=false&delayms=3000">Slides</a>] </li>
+  <li> [Jan 2024] Joined <a href="https://nielseniq.com/global/en/">NielsenIQ</a> as a <b>Senior AI Research Scientist</b>!! </li>
   <li> [Dec 2023] Attended <a href="https://indoml.in/">IndoML 2023</a> at IIT Bombay! </li>
   <li> [Dec 2023] Presented our works at <b>EMNLP 2023</b>! [<a href="/files/pdf/research/CONTRASTE_EMNLP2023_Poster.pdf">CONTRASTE</a>] [<a href="/files/pdf/research/MILDSum_EMNLP2023_Poster.pdf">MILDSum</a>] </li>
   <li> [Nov 2023] <b><i>Paper Alert</i></b> - Long Paper DIRECT acceptance (Accept. Rate: ~8%) at <a href="https://www.icwsm.org/2024/index.html/">ICWSM 2024</a>! </li>
