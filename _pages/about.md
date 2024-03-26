@@ -20,7 +20,7 @@ News
 ======
 <ul class="smallFont">
   <li> [Mar 2024] <b><i>Paper Alert</i></b> - First Journal Paper accepted at <a href="https://dl.acm.org/journal/tweb">ACM Transactions on the Web</a>! </li>
-  <li> [Mar 2024] <b><i>Paper Alert</i></b> - Long Paper accepted at <a href="https://2024.naacl.org/">NAACL 2024</a>! </li>
+  <li> [Mar 2024] <b><i>Paper Alert</i></b> - Long Paper accepted at <a href="https://2024.naacl.org/">NAACL 2024</a> Main Conference! </li>
   <li> [Feb 2024] Presented our EMNLP 2022 Long Paper, ECTSum (<b><i>Invited Spotlight Talk</i></b>), at <a href="https://event.india.acm.org/arcs/home/">ACM ARCS 2024</a> [<a href="/files/pdf/research/ECTSum_EMNLP2022_Poster.pdf">Poster</a>] [<a href="https://docs.google.com/presentation/d/e/2PACX-1vTGUke-pXTT9MtbVOJCuO_A7Lnaeex7LBkLAY6uxPVEGZ5l6mqvHkENADlPd9lMHXCkZCQMQSgZJFpN/pub?start=true&loop=false&delayms=3000">Slides</a>] </li>
   <li> [Jan 2024] Joined <a href="https://nielseniq.com/global/en/">NielsenIQ</a> as a <b>Senior AI Research Scientist</b>!! </li>
   <li> [Dec 2023] Attended <a href="https://indoml.in/">IndoML 2023</a> at IIT Bombay! </li>
