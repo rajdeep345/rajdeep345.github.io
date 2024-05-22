@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Senior AI Research Scientist at NielsenIQ. Also, I am a final-year Ph.D. Candidate (Thesis Submitted) at the Dept. of Computer Science and Engineering, IIT Kharagpur advised by [Prof. Pawan Goyal](http://cse.iitkgp.ac.in/~pawang/) and [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ac.in/~niloy/). Additionally, I am a member of the Complex Networks Research Group ([CNeRG](https://cnerg-iitkgp.github.io/)). My Ph.D. thesis focuses on addressing the modeling and evaluation requirements of text summarization solutions across multiple domains such as e-commerce, finance, disaster mitigation, law, and tourism. I would be happy to talk about recent advancements around LLMs, Small LMs, Factuality, Efficient fine-tuning techniques, Generative Information Extraction, Extreme Classification and Summarization among other NLP topics.  
+Hi! I am a Senior AI Research Scientist at NielsenIQ. I completed my Ph.D. from the Dept. of CSE, IIT Kharagpur under the supervision of [Prof. Pawan Goyal](http://cse.iitkgp.ac.in/~pawang/) and [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ac.in/~niloy/). I am also an ex-member of the Complex Networks Research Group ([CNeRG](https://cnerg-iitkgp.github.io/)). My Ph.D. thesis focuses on addressing the modeling and evaluation requirements of text summarization solutions across multiple domains such as e-commerce, finance, disaster mitigation, law, and tourism. I would be happy to talk about recent advancements around LLMs, Small LMs, Factuality, Efficient fine-tuning techniques, Generative Information Extraction, Extreme Classification and Summarization among other NLP topics.
 
 I obtained my Masters from IIIT Delhi under the supervision of [Prof. Sambuddho Chakravarty](https://sites.google.com/site/sambuddhochakravarty/home?authuser=0). I did my Undergrad at Jadavpur University, where I worked with [Prof. Samiran Chattopadhyay](http://www.jaduniv.edu.in/profile.php?uid=615). I recently interned as an Applied Scientist II with the [Central Machine Learning Team](https://www.amazon.jobs/en/teams/machine-learning) at Amazon Science, Bangalore. I have previously interned at [IBM Research](https://research.ibm.com/). Additionally, I have four years of professional experience with [PwC India](https://www.pwc.in/) specializing in Data Modeling and Business Intelligence.
 
@@ -19,6 +19,7 @@ Large Language Models, Factuality, Instruction Tuning, Parameter-Efficient Fine-
 News
 ======
 <ul class="smallFont">
+  <li> [May 2024] <b> Successfully defended my Ph.D. </b> </li>
   <li> [Mar 2024] <b><i>Paper Alert</i></b> - First Journal Paper accepted at <a href="https://dl.acm.org/journal/tweb">ACM Transactions on the Web</a>! </li>
   <li> [Mar 2024] <b><i>Paper Alert</i></b> - Long Paper accepted at <a href="https://2024.naacl.org/">NAACL 2024</a> Main Conference! </li>
   <li> [Feb 2024] Presented our EMNLP 2022 Long Paper, ECTSum (<b><i>Invited Spotlight Talk</i></b>), at <a href="https://event.india.acm.org/arcs/home/">ACM ARCS 2024</a> [<a href="/files/pdf/research/ECTSum_EMNLP2022_Poster.pdf">Poster</a>] [<a href="https://docs.google.com/presentation/d/e/2PACX-1vTGUke-pXTT9MtbVOJCuO_A7Lnaeex7LBkLAY6uxPVEGZ5l6mqvHkENADlPd9lMHXCkZCQMQSgZJFpN/pub?start=true&loop=false&delayms=3000">Slides</a>] </li>
