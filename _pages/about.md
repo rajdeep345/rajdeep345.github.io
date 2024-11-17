@@ -21,6 +21,7 @@ Large Language Models, Continual Pretraining, Knowledge Injection, Instruction T
 News
 ======
 <ul class="smallFont">
+  <li> [Nov 2024] <b><i>Paper Alert</i></b> - Long Paper acceptanced at <a href="https://kdd2025.kdd.org/">KDD 2025</a> (Applied Data Science Track)! </li>
   <li> [Oct 2024] Delivered a lecture on <b> Evolution and Industry Use cases of LLMs and ChatGPT </b> as part of <a href="https://www.tcsion.com/hub/iit-kgp-certificate-program/hands-on-approach-to-ai/">HAAI Certificate Program</a> conducted by <a href="https://ai4icps.in/">IIT Kharagpur AI4ICPS</a>! [<a href="https://docs.google.com/presentation/d/e/2PACX-1vTQZFPJXKwj7Dw6mksoULfArk5liLEHr2eXkuQg8w9nGHGm3H0uBwz-QIzqeFTiuw/pub?start=true&loop=false&delayms=5000">Slides</a>][<a href="https://www.linkedin.com/posts/sabyasachi-mukhopadhyay-303a1027_haai-cohort2-chatgpt-activity-7248402040681312256-Hav4?utm_source=share&utm_medium=member_desktop">Post</a>] </li>
   <li> [Jul 2024] Delivered a <a href="https://colab.research.google.com/drive/1OkqcpLVbze_obiomPakArA5kabWbn3lO?usp=sharing">hands-on lecture</a> on <b> Parameter Efficient Fine-Tuning (PEFT) Techniques </b> at the <a href="https://labs.iitgn.ac.in/lingo/acmsummerschool2024/">ACM Summer School on Generative AI for Text</a> hosted by <b> IIT Gandhinagar! </b> </li>
   <li> [Jun 2024] Working as the <b> Datathon Chair </b> for <a href="https://indoml.in/committee.php">IndoML 2024</a> </li>
