@@ -18,7 +18,7 @@ I obtained my Masters from IIIT Delhi under the supervision of [Prof. Sambuddho 
 
 Research Interests
 ======
-Large Language Models, Continual Pretraining, Knowledge Injection, Instruction Tuning, Parameter-Efficient Fine-tuning, Information Extraction, Summarization.
+Large Language Models, Continual Pretraining, Knowledge Injection, Instruction Tuning, Parameter-Efficient Fine-tuning, RAG, Information Extraction, Summarization.
 
 News
 ======
