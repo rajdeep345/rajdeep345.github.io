@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an Applied Scientist 2 with the [Central Machine Learning Team](https://www.amazon.jobs/en/teams/machine-learning) at [Amazon Science](https://www.amazon.science/). Previously, I worked with NielsenIQ as a Senior Research Scientist. I obtained my Ph.D. from the Dept. of CSE, IIT Kharagpur under the supervision of [Prof. Pawan Goyal](http://cse.iitkgp.ac.in/~pawang/) and [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ac.in/~niloy/). I am also an ex-member of the Complex Networks Research Group ([CNeRG](https://cnerg-iitkgp.github.io/)). 
+Hi! I am an Applied Scientist 2 with the [Central Machine Learning Team](https://www.amazon.jobs/en/teams/machine-learning) at [Amazon Science](https://www.amazon.science/). Previously, I worked with NielsenIQ as a Senior Research Scientist. I obtained my Ph.D. from the Dept. of CSE, IIT Kharagpur under the supervision of [Prof. Pawan Goyal](http://cse.iitkgp.ac.in/~pawang/) and [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ac.in/~niloy/). 
+
+<!-- I am also an ex-member of the Complex Networks Research Group ([CNeRG](https://cnerg-iitkgp.github.io/)). -->
 
 <!-- My Ph.D. thesis focuses on addressing the modeling and evaluation requirements of text summarization solutions across multiple domains such as e-commerce, finance, disaster mitigation, law, and tourism. I would be happy to talk about recent advancements around LLMs, Small LMs, Factuality, Efficient fine-tuning techniques, Generative Information Extraction, Extreme Classification and Summarization among other NLP topics. -->
 
-I obtained my Masters from IIIT Delhi under the supervision of [Prof. Sambuddho Chakravarty](https://sites.google.com/site/sambuddhochakravarty/home?authuser=0), and my Bachelors from Jadavpur University under the supervision of [Prof. Samiran Chattopadhyay](http://www.jaduniv.edu.in/profile.php?uid=615). During my PhD, I have interned with [Amazon Science](https://www.amazon.science/) and [IBM Research](https://research.ibm.com/). I also have four years of full-time experience as a <i>Technology Consultant</i> with [PwC India](https://www.pwc.in/).
+I obtained my Masters from IIIT Delhi under the supervision of [Prof. Sambuddho Chakravarty](https://sites.google.com/site/sambuddhochakravarty/home?authuser=0), and my Bachelors from Jadavpur University under the supervision of [Prof. Samiran Chattopadhyay](http://www.jaduniv.edu.in/profile.php?uid=615). During my PhD, I have interned with [Amazon Science](https://www.amazon.science/) and [IBM Research](https://research.ibm.com/). I also have four years of full-time work experience as a <i>Technology Consultant</i> with [PwC India](https://www.pwc.in/).
 
 Research Interests
 ======
@@ -21,7 +23,7 @@ Large Language Models, Continual Pretraining, Knowledge Injection, Instruction T
 News
 ======
 <ul class="smallFont">
-  <li> [Jun 2025] Joined the <a href="https://www.amazon.jobs/en/teams/machine-learning">Central Machine Learning Team</a> at <a href="https://www.amazon.science/">Amazon Science</a> as an <b> Applied Scientist 2 </b>!! </li>
+  <li> [Jun 2025] Joined <a href="https://www.amazon.science/">Amazon Science</a> as an <b> Applied Scientist 2!! </b> </li>
   <li> [May 2025] Working as a member of the <b> Graduate Forum Committee </b> for <a href="https://indoml.in/committee.php">IndoML 2025</a> </li>
   <li> [May 2025] Delivered a lecture on the <b> Evolution and Industry Use cases of LLMs and ChatGPT </b> as part of <a href="https://www.tcsion.com/hub/iit-kgp-certificate-program/hands-on-approach-to-ai/">HAAI Cohort 3</a> conducted by <a href="https://ai4icps.in/">IIT Kharagpur AI4ICPS</a>! [<a href="https://docs.google.com/presentation/d/e/2PACX-1vSjvVRPGg4bsNk398iob1etohA884Bgak5rLZPsuE-Jf9_ZWRTOzAbMrEJRe1nkJw/pub?start=true&loop=false&delayms=5000">Slides</a>][<a href="https://www.linkedin.com/posts/sabyasachi-mukhopadhyay-303a1027_drrajdeepmukherjee-nilanjansinhababu-tcsion-activity-7327146266696605697-5fzq?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAT71CABZ9fba2d1JAWjnMBx5nozecw1-TI">Post</a>] </li>
   <li> [Dec 2024] Awarded the Doctoral Degree at the 70th Convocation of IIT Kharagpur!! </li>
